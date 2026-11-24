@@ -38,7 +38,10 @@ const SAMPLES = [
   { kind: 'bee', type: 'image', src: 'https://inaturalist-open-data.s3.amazonaws.com/photos/195992266/large.jpg',
     credit: { by: 'Bryan Pfeiffer', license: 'CC BY-NC', url: 'https://www.inaturalist.org/observations/116124915' } },
   { kind: 'bee', type: 'video', src: publicUrl('samples/bee.mp4') },
-  { kind: 'butterfly', type: 'image', src: KINDS[1].image },
+  // A copy of the Beedex monarch kept in public/samples: the original's site doesn't let other sites read
+  // its images, so it couldn't be cropped or run through the matcher (photo: Paul Sweet, CC BY-SA 4.0)
+  { kind: 'butterfly', type: 'image', src: publicUrl('samples/butterfly.jpg'),
+    credit: { by: 'Paul Sweet', license: 'CC BY-SA', url: 'https://creativecommons.org/licenses/by-sa/4.0/' } },
   { kind: 'butterfly', type: 'video', src: publicUrl('samples/butterfly.mp4') },
 ]
 
