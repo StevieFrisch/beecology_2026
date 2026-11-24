@@ -24,17 +24,17 @@ const STADIA_CREDIT = '&copy; <a href="https://stadiamaps.com/" target="_blank" 
   Stadia tiles work on localhost without a key; a live site needs a free Stadia account with the
   site's domain added (the free tier is for non-commercial use).
 */
-const SATELLITE = {
+export const SATELLITE = {
   url: 'https://tiles.stadiamaps.com/tiles/alidade_satellite/{z}/{x}/{y}{r}.jpg', maxZoom: 20,
   attribution: `${STADIA_CREDIT}, imagery &copy; CNES/Airbus DS, PlanetObserver`,
 }
 
 // Map: Stadia "OSM Bright" street map (same free Stadia account as the satellite view)
-const STREET = {
+export const STREET = {
   url: 'https://tiles.stadiamaps.com/tiles/osm_bright/{z}/{x}/{y}{r}.png', maxZoom: 20, attribution: STADIA_CREDIT,
 }
 
-const LAYERS = {
+export const LAYERS = {
   satellite: { label: 'Satellite' },
   map: { label: 'Map' },
 }

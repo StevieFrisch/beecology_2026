@@ -19,7 +19,7 @@ const longDate = (s) => {
 }
 
 // Map point: saved { lat, lng }, or older logs whose location text is "lat, lng"
-const pointOf = (l) => {
+export const pointOf = (l) => {
   if (l.loc) return l.loc
   const m = /^\s*(-?\d+(?:\.\d+)?),\s*(-?\d+(?:\.\d+)?)\s*$/.exec(l.location || '')
   return m ? { lat: +m[1], lng: +m[2] } : null

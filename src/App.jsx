@@ -7,6 +7,7 @@ import ButterflyDetail from './pages/ButterflyDetail.jsx'
 import FamilyDetail from './pages/FamilyDetail.jsx'
 import Logs from './pages/Logs.jsx'
 import LogDetail from './pages/LogDetail.jsx'
+import LogMap from './pages/LogMap.jsx'
 import Tutorial from './pages/Tutorial.jsx'
 import Login from './pages/Login.jsx'
 import Signup from './pages/Signup.jsx'
@@ -22,6 +23,7 @@ export default function App() {
         <Route path="beedex/butterfly/:id" element={<ButterflyDetail />} />
         <Route path="beedex/family/:name" element={<FamilyDetail />} />
         <Route path="logs" element={<Logs />} />
+        <Route path="logs/map" element={<LogMap />} />
         <Route path="logs/:id" element={<LogDetail />} />
         <Route path="collect" element={<CollectFlow />} />
         <Route path="tutorial" element={<Tutorial />} />

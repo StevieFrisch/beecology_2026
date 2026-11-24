@@ -1,6 +1,6 @@
 import { useMemo, useState } from 'react'
 import { Link } from 'react-router-dom'
-import { Trash2, MapPin, CalendarDays, NotebookPen, Plus, CloudUpload, CircleCheck, Bookmark, ChevronRight } from 'lucide-react'
+import { Trash2, MapPin, CalendarDays, NotebookPen, Plus, CloudUpload, CircleCheck, Bookmark, ChevronRight, Map as MapIcon } from 'lucide-react'
 import { getLogs, deleteLog, getDrafts, deleteDraft, bees, butterflies } from '../data'
 import { asset } from '../config.js'
 import { CroppedImage, mainCapture } from '../collect/Crop.jsx'
@@ -78,10 +78,17 @@ export default function Logs() {
             </h1>
           </div>
           {logs.length > 0 && (
-            <Link to="/collect"
-              className="flex items-center gap-2 rounded-full bg-brown px-5 py-2.5 text-sm font-semibold text-honey shadow-sm transition hover:brightness-125">
-              <Plus size={16} strokeWidth={2.25} /> New log
-            </Link>
+            <div className="flex items-center gap-2">
+              {/* All logs as pins on one map */}
+              <Link to="/logs/map"
+                className="flex items-center gap-2 rounded-full px-5 py-2.5 text-sm font-medium text-brown ring-1 ring-inset ring-brown/30 transition hover:bg-[#e9dcc4]/60">
+                <MapIcon size={16} /> Map
+              </Link>
+              <Link to="/collect"
+                className="flex items-center gap-2 rounded-full bg-brown px-5 py-2.5 text-sm font-semibold text-honey shadow-sm transition hover:brightness-125">
+                <Plus size={16} strokeWidth={2.25} /> New log
+              </Link>
+            </div>
           )}
         </header>
 
