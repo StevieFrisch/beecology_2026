@@ -2,7 +2,7 @@ import { useEffect, useRef, useState } from 'react'
 import exifr from 'exifr'
 import { ImageUp, Camera, X, RefreshCw, Check, Film, Image as ImageIcon } from 'lucide-react'
 import { bees, butterflies } from '../data'
-import { asset } from '../config.js'
+import { asset, publicUrl } from '../config.js'
 import { FrameDial, useVideo } from './FrameDial.jsx'
 import { CroppedImage, CropEditor } from './Crop.jsx'
 
@@ -37,9 +37,9 @@ const KINDS = [
 const SAMPLES = [
   { kind: 'bee', type: 'image', src: 'https://inaturalist-open-data.s3.amazonaws.com/photos/195992266/large.jpg',
     credit: { by: 'Bryan Pfeiffer', license: 'CC BY-NC', url: 'https://www.inaturalist.org/observations/116124915' } },
-  { kind: 'bee', type: 'video', src: '/samples/bee.mp4' },
+  { kind: 'bee', type: 'video', src: publicUrl('samples/bee.mp4') },
   { kind: 'butterfly', type: 'image', src: KINDS[1].image },
-  { kind: 'butterfly', type: 'video', src: '/samples/butterfly.mp4' },
+  { kind: 'butterfly', type: 'video', src: publicUrl('samples/butterfly.mp4') },
 ]
 
 // Answers that only make sense for one kind; cleared when the kind changes

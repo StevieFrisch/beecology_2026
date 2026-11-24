@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom'
+import { publicUrl } from '../config.js'
 
 /*
   Homepage — "Editorial serif" design.
@@ -34,7 +35,7 @@ export default function Home() {
   return (
     <div
       className="bleed relative h-dvh w-auto overflow-hidden bg-cover bg-[position:65%_center] bg-no-repeat"
-      style={{ backgroundImage: `url(/home-bee.jpg)` }}
+      style={{ backgroundImage: `url(${publicUrl('home-bee.jpg')})` }}
     >
       <div className="pointer-events-none absolute inset-0" style={depthBlur} />
 

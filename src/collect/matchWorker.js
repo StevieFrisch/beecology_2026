@@ -17,7 +17,7 @@ import ortWasm from 'onnxruntime-web/ort-wasm-simd-threaded.asyncify.wasm?url'
 //   engine — the two files imported above
 env.allowRemoteModels = false
 env.allowLocalModels = true
-env.localModelPath = '/models/'
+env.localModelPath = `${import.meta.env.BASE_URL}models/`
 env.backends.onnx.wasm.wasmPaths = { mjs: ortMjs, wasm: ortWasm }
 
 const MODEL = 'Xenova/clip-vit-base-patch32' // must match scripts/embed-butterflies.mjs
@@ -37,7 +37,7 @@ function load() {
   ready = Promise.all([
     AutoProcessor.from_pretrained(MODEL),
     CLIPVisionModelWithProjection.from_pretrained(MODEL, { dtype: 'q8', progress_callback }),
-    fetch('/models/butterfly-embeddings.json').then((r) => r.json()),
+    fetch(`${import.meta.env.BASE_URL}models/butterfly-embeddings.json`).then((r) => r.json()),
   ])
   ready.catch(() => { ready = null })
   return ready
