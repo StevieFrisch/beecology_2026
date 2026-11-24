@@ -3,6 +3,8 @@
 A clean, front-end-only rebuild of https://beecology.wpi.edu/webapp for redesign work.
 It is not the original source. The pages were rewritten by hand to match the live app's layout and flows.
 
+**Live site:** https://steviefrisch.github.io/beecology_2026/ (published by GitHub Actions on every push to `main`)
+
 ```
 npm install
 npm run dev
