@@ -1,0 +1,129 @@
+@import "tailwindcss";
+
+/*
+  Design tokens — change these to restyle the whole app.
+  Values below are measured from the live app (beecology.wpi.edu/webapp).
+*/
+/* Short screens (laptops, small phones): used to tighten full-screen pages like Collect */
+@custom-variant short (@media (max-height: 760px));
+
+@theme {
+  --font-sans: system-ui, -apple-system, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell,
+    "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+  --color-honey: #ffdb70;         /* --bee-yellow: top bar, "Bee" in title */
+  --color-honey-hover: #edc54e;   /* logo hover in top bar */
+  --color-honey-strong: #f6c23e;  /* sign-in button */
+  --color-violet: #8f10de;        /* .purple-button */
+  --color-ink: oklch(0.22389 0.031 278.072); /* base text (daisyUI corporate) */
+  --color-nav: oklch(0.373 0.034 259.733);   /* sidebar item text (gray-700) */
+  --color-muted: #6b7280;
+  --color-line: #e5e7eb;
+  --color-surface: #ffffff;
+  --color-subtle: oklch(0.928 0.006 264.531); /* active sidebar item (gray-200) */
+
+  /* Redesign palette (from the Editorial serif homepage) */
+  --color-brown: #2b1d0e;        /* darkest text, primary buttons */
+  --color-brown-soft: #3d2a12;   /* body text on warm backgrounds */
+  --color-amber: #a35a00;        /* accents, italic "Bee" */
+  --color-cream: #fdf6e3;        /* warm panel background */
+
+  --navbar-height: 48px;
+}
+
+/*
+  The whole page (the document) scrolls, so browsers give it their native trackpad
+  bounce. The header and dock are position: fixed and stay put. The homepage locks
+  page scrolling from Layout.jsx while it's shown.
+*/
+html, body { min-height: 100%; }
+#root { min-height: 100dvh; }
+
+/*
+  Photo placeholder (FadeImage): warm tan with a soft light sweep while a photo loads,
+  so frames never show as blank boxes. Static for people who prefer reduced motion.
+*/
+.img-placeholder {
+  background-color: #efe6d3;
+  background-image: linear-gradient(100deg, rgba(255, 255, 255, 0) 30%, rgba(255, 255, 255, 0.55) 50%, rgba(255, 255, 255, 0) 70%);
+  background-size: 220% 100%;
+  animation: img-shimmer 1.4s ease-in-out infinite;
+}
+@keyframes img-shimmer {
+  from { background-position: 120% 0; }
+  to { background-position: -120% 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .img-placeholder { animation: none; }
+}
+
+/*
+  Full-bleed sections (e.g. the homepage photo) extend under the header and dock.
+  <main> sets --inset-t / --inset-l / --inset-b and pads by them; .bleed cancels that
+  padding for the background while keeping the content inside clear of them.
+*/
+.bleed {
+  margin-top: calc(var(--inset-t, 0px) * -1);
+  padding-top: var(--inset-t, 0px);
+  margin-left: calc(var(--inset-l, 0px) * -1);
+  padding-left: var(--inset-l, 0px);
+  margin-bottom: calc(var(--inset-b, 0px) * -1);
+  padding-bottom: var(--inset-b, 0px);
+}
+
+/*
+  Dock labels: visible by default (touch devices can't hover). On devices with a
+  mouse they collapse, then slide in when the pointer enters the dock group.
+  Keyboard focus (:focus-visible) also opens them; a mouse click does not, so the
+  labels hide again as soon as the pointer leaves after clicking a tab.
+*/
+.dock-label {
+  display: block;
+  overflow: hidden;
+  max-height: 1.5rem;
+  margin-top: 4px;
+  opacity: 1;
+  transition: max-height 0.3s ease, margin-top 0.3s ease, opacity 0.2s ease 0.05s;
+}
+
+/* Collect circle: diameter tracks the capsule height (--circle open, --circle-c collapsed). */
+.dock-circle {
+  width: var(--circle);
+  height: var(--circle);
+  transition: width 0.3s ease, height 0.3s ease, filter 0.15s ease;
+}
+
+@media (hover: hover) {
+  .dock:not(:hover):not(:has(:focus-visible)) .dock-label {
+    max-height: 0;
+    margin-top: 0;
+    opacity: 0;
+    transition: max-height 0.3s ease, margin-top 0.3s ease, opacity 0.15s ease;
+  }
+  .dock:not(:hover):not(:has(:focus-visible)) .dock-circle {
+    width: var(--circle-c);
+    height: var(--circle-c);
+  }
+}
+
+body {
+  margin: 0;
+  background: var(--color-surface);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  line-height: 1.5;
+}
+
+/*
+  Map tiles (Leaflet, Date and Location step): when the map scales tiles past their native zoom,
+  browsers can leave hairline gaps between them; blending the tiles hides the seams.
+*/
+.leaflet-container img.leaflet-tile {
+  mix-blend-mode: plus-lighter;
+}
+.leaflet-container { font-family: var(--font-sans); }
+/* Keep the map credit small; on touch screens the zoom buttons give way (pinch to zoom) */
+.leaflet-container .leaflet-control-attribution { font-size: 9px; line-height: 1.3; max-width: 100%; }
+@media (pointer: coarse) {
+  .leaflet-container .leaflet-control-zoom { display: none; }
+}

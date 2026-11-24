@@ -1,0 +1,338 @@
+[
+ {
+  "id": "6aa7cef1-858e-43ab-9e4d-54fae61c279d",
+  "species": "affinis",
+  "common_names": [
+   "Rusty-patched bumble bee"
+  ],
+  "description": "This bumble bee has a half black, half yellow abdomen with a thin orange stripe in the top half. It has a black dot and gray coloring on the thorax and is dark around the wings.",
+  "active_start": "April",
+  "active_end": "October",
+  "tongue_length": "short",
+  "confused_with": [
+   "griseocollis",
+   "bimaculatus"
+  ],
+  "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/139045252/medium.jpg",
+  "subgenus": "bombus",
+  "image_credit": "Heather Holm",
+  "image_license": "CC BY-NC",
+  "image_license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "image_source_url": "https://www.inaturalist.org/observations/84591001"
+ },
+ {
+  "id": "152be09f-445a-4dc0-9223-42db678cb42b",
+  "species": "terricola",
+  "common_names": [
+   "Yellow-banded bumble bee"
+  ],
+  "description": "This bumble bee has a half black abdomen. The top and bottom ends of the abdomen are typically black, with yellow in between the two bands. Top of the abdomen has a black band as well.",
+  "active_start": "April",
+  "active_end": "October",
+  "tongue_length": "short",
+  "confused_with": [
+   "pensylvanicus"
+  ],
+  "image": "/beeres/images/beedex/terricola.jpg",
+  "subgenus": "bombus"
+ },
+ {
+  "id": "afeb20ea-4426-447c-a6cf-3cf49b6b55b3",
+  "species": "bimaculatus",
+  "common_names": [
+   "Two-spotted bumble bee"
+  ],
+  "description": "This bumble bee has a black dot on the thorax, is dark around the wings and has a mostly black abdomen. The top half of the abdomen typically has an irregular yellow band in the middle.",
+  "active_start": "April",
+  "active_end": "October",
+  "tongue_length": "long",
+  "confused_with": [
+   "impatiens",
+   "griseocollis"
+  ],
+  "image": "/beeres/images/beedex/bimaculatus.jpg",
+  "subgenus": "pyrobombus"
+ },
+ {
+  "id": "92c66708-ada8-4fcb-b507-c0a89a9f54f3",
+  "species": "perplexus",
+  "common_names": [
+   "Confusing bumble bee"
+  ],
+  "description": "This bumble bee has a half black abdomen. Occasionally, the black band is irregular. The thorax is yellow with darkening around the wings.",
+  "active_start": "April",
+  "active_end": "September",
+  "tongue_length": "medium",
+  "confused_with": [
+   "vagans"
+  ],
+  "image": "/beeres/images/beedex/perplexus.jpg",
+  "subgenus": "pyrobombus"
+ },
+ {
+  "id": "d4f72810-b4a8-4e6c-86e3-7f225488b861",
+  "species": "borealis",
+  "common_names": [
+   "Northern Amber bumble bee"
+  ],
+  "description": "This bumble bee has substantial amounts of yellow hair; usually, the hairs above the ocelli are entirely yellow.",
+  "active_start": "",
+  "active_end": "",
+  "tongue_length": "long",
+  "confused_with": [
+   "fervidus"
+  ],
+  "image": "/beeres/images/beedex/borealis.jpg",
+  "subgenus": "subterraneobombus"
+ },
+ {
+  "id": "27c21859-ede7-435e-b582-488c4e58b2ae",
+  "species": "ternarius",
+  "common_names": [
+   "Tri-colored bumble bee"
+  ],
+  "description": "This bumble bee has a thick orange stripe on the abdomen. The thorax has a black band in the middle and may have a black triangle below the band as well.",
+  "active_start": "April",
+  "active_end": "October",
+  "tongue_length": "short",
+  "confused_with": [],
+  "image": "/beeres/images/beedex/ternarius.jpg",
+  "subgenus": "pyrobombus"
+ },
+ {
+  "id": "4c1f54d6-ce43-4337-8d61-e840c38b1da1",
+  "species": "impatiens",
+  "common_names": [
+   "Common eastern bumble bee"
+  ],
+  "description": "This bumble bee is dark around the wings, has a gray coloring to the thorax and has a mostly black abdomen.",
+  "active_start": "April",
+  "active_end": "October",
+  "tongue_length": "medium",
+  "confused_with": [
+   "bimaculatus",
+   "griseocollis"
+  ],
+  "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/301511758/medium.jpeg",
+  "subgenus": "pyrobombus",
+  "image_credit": "David Mantack",
+  "image_license": "CC BY-NC",
+  "image_license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "image_source_url": "https://www.inaturalist.org/observations/173610901"
+ },
+ {
+  "id": "ab68260c-f40d-424a-8ac9-13210feec38f",
+  "species": "vagans",
+  "common_names": [
+   "Half-black bumble bee"
+  ],
+  "description": "This bumble bee has a half black abdomen, with the bottom half always being black. The thorax has a black dot surrounded by gray coloring and is dark around the wings.",
+  "active_start": "April",
+  "active_end": "October",
+  "tongue_length": "medium",
+  "confused_with": [
+   "perplexus"
+  ],
+  "image": "/beeres/images/beedex/vagans.jpg",
+  "subgenus": "pyrobombus"
+ },
+ {
+  "id": "6e03096f-166f-49ee-8c3e-6e451d6db4a3",
+  "species": "griseocollis",
+  "common_names": [
+   "Brown-belted bumble bee"
+  ],
+  "description": "This bumble bee has a black dot on the thorax, is dark around the wings and has a thin brownish band before the abdomen becomes mostly black.",
+  "active_start": "May",
+  "active_end": "October",
+  "tongue_length": "medium",
+  "confused_with": [
+   "bimaculatus",
+   "affinis",
+   "impatiens"
+  ],
+  "image": "/beeres/images/beedex/griseocollis.jpg",
+  "subgenus": "cullumanobombus"
+ },
+ {
+  "id": "48393177-8044-4c0f-aa43-8aff867ef041",
+  "species": "fervidus",
+  "common_names": [
+   "Yellow bumble bee"
+  ],
+  "description": "This bumble bee has a mostly yellow abdomen, with a small portion of black at the bottom of the abdomen. The thorax has a black band going across the middle.",
+  "active_start": "May",
+  "active_end": "October",
+  "tongue_length": "long",
+  "confused_with": [],
+  "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/88234631/medium.jpg",
+  "subgenus": "thoracobombus",
+  "image_credit": "Claire O'Neill",
+  "image_license": "CC BY-NC",
+  "image_license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "image_source_url": "https://www.inaturalist.org/observations/55419809"
+ },
+ {
+  "id": "32101a07-4655-486c-bfc5-e1d612beef45",
+  "species": "pensylvanicus",
+  "common_names": [
+   "American bumble bee"
+  ],
+  "description": "This bumble bee has a mostly yellow abdomen. The bottom of the abdomen is always black and the first segment at the top of the abdomen is often black as well. The thorax is typically dark, either being all black or having a distinct black band surrounded by gray coloring.",
+  "active_start": "May",
+  "active_end": "October",
+  "tongue_length": "long",
+  "confused_with": [
+   "terricola"
+  ],
+  "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/235769065/medium.jpg",
+  "subgenus": "thoracobombus",
+  "image_credit": "Kenneth Heiar",
+  "image_license": "CC BY-NC",
+  "image_license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "image_source_url": "https://www.inaturalist.org/observations/137990557"
+ },
+ {
+  "id": "ne-sandersoni",
+  "species": "sandersoni",
+  "common_names": [
+   "Sanderson's bumble bee"
+  ],
+  "subgenus": "pyrobombus",
+  "tongue_length": "short",
+  "active_start": "May",
+  "active_end": "September",
+  "confused_with": [
+   "vagans",
+   "perplexus"
+  ],
+  "description": "A small, northern bumble bee. The thorax is yellow with a black spot between the wings, and the first two abdomen segments are yellow while the rest of the abdomen is black. It looks almost identical to the half-black bumble bee; a shorter face is the clearest difference.",
+  "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/28292262/medium.jpg",
+  "image_credit": "Mark Olivier",
+  "image_license": "CC BY-NC",
+  "image_license_url": "https://creativecommons.org/licenses/by-nc/4.0/"
+ },
+ {
+  "id": "ne-rufocinctus",
+  "species": "rufocinctus",
+  "common_names": [
+   "Red-belted bumble bee"
+  ],
+  "subgenus": "cullumanobombus",
+  "tongue_length": "short",
+  "active_start": "May",
+  "active_end": "September",
+  "confused_with": [
+   "ternarius",
+   "bimaculatus"
+  ],
+  "description": "One of the most variable bumble bees in color. Many individuals have a reddish or orange band partway down the abdomen with yellow on either side, but some are mostly yellow or mostly black. Uncommon in New England, where it is found mainly in the north.",
+  "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/85728033/medium.jpeg",
+  "image_credit": "Denis Doucet",
+  "image_license": "CC BY-NC",
+  "image_license_url": "https://creativecommons.org/licenses/by-nc/4.0/"
+ },
+ {
+  "id": "ne-auricomus",
+  "species": "auricomus",
+  "common_names": [
+   "Black-and-gold bumble bee"
+  ],
+  "subgenus": "bombias",
+  "tongue_length": "long",
+  "active_start": "May",
+  "active_end": "September",
+  "confused_with": [
+   "pensylvanicus"
+  ],
+  "description": "A large bumble bee with a crisp black band across the thorax between the wings and yellow on the second and third abdominal segments; the first segment is mostly black. It is rare in New England and easily confused with the American bumble bee.",
+  "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/19348416/medium.jpeg",
+  "image_credit": "Mark Nofsinger",
+  "image_license": "CC BY-NC",
+  "image_license_url": "https://creativecommons.org/licenses/by-nc/4.0/"
+ },
+ {
+  "id": "ne-citrinus",
+  "species": "citrinus",
+  "common_names": [
+   "Lemon cuckoo bumble bee"
+  ],
+  "subgenus": "psithyrus",
+  "cuckoo": true,
+  "active_start": "June",
+  "active_end": "September",
+  "confused_with": [
+   "impatiens",
+   "bimaculatus"
+  ],
+  "description": "A cuckoo bumble bee that takes over the nests of other bumble bees, including the common eastern bumble bee. Females are mostly black, with a yellow thorax marked by a black dot and usually a single yellow band on the third abdominal segment. Like other cuckoos it has no pollen baskets on its hind legs, and its abdomen is shinier and less hairy than a nest-building bee's.",
+  "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/12182677/medium.jpg",
+  "image_credit": "Heather Holm",
+  "image_license": "CC BY-NC",
+  "image_license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "tongue_length": null
+ },
+ {
+  "id": "ne-ashtoni",
+  "species": "ashtoni",
+  "common_names": [
+   "Ashton's cuckoo bumble bee"
+  ],
+  "subgenus": "psithyrus",
+  "cuckoo": true,
+  "active_start": "May",
+  "active_end": "August",
+  "confused_with": [
+   "terricola",
+   "affinis"
+  ],
+  "description": "A cuckoo bumble bee that depends on the nests of the rusty-patched and yellow-banded bumble bees, so it has declined along with them. Mostly black with yellow on the front of the thorax and pale patches toward the tip of the abdomen. It has no pollen baskets.",
+  "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/521629856/medium.jpg",
+  "image_credit": "Denis Doucet",
+  "image_license": "CC BY-NC",
+  "image_license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "tongue_length": null,
+  "image_source_url": "https://www.inaturalist.org/observations/289991416"
+ },
+ {
+  "id": "ne-flavidus",
+  "species": "flavidus",
+  "common_names": [
+   "Fernald's cuckoo bumble bee"
+  ],
+  "subgenus": "psithyrus",
+  "cuckoo": true,
+  "active_start": "June",
+  "active_end": "September",
+  "confused_with": [
+   "insularis"
+  ],
+  "description": "A cuckoo bumble bee of northern and mountain areas. Its coloring varies; females usually have a yellow thorax with a large black dot and yellow bands on the first and third abdominal segments. It has no pollen baskets and is best confirmed by an expert.",
+  "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/18571510/medium.jpg",
+  "image_credit": "leif_richardson",
+  "image_license": "CC BY-NC",
+  "image_license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "tongue_length": null
+ },
+ {
+  "id": "ne-insularis",
+  "species": "insularis",
+  "common_names": [
+   "Indiscriminate cuckoo bumble bee"
+  ],
+  "subgenus": "psithyrus",
+  "cuckoo": true,
+  "active_start": "May",
+  "active_end": "September",
+  "confused_with": [
+   "flavidus",
+   "citrinus"
+  ],
+  "description": "A cuckoo bumble bee that uses the nests of several different host species, which is where its name comes from. The thorax is mostly pale yellow and the abdomen is black with yellow along the sides. It has no pollen baskets.",
+  "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/123343275/medium.jpg",
+  "image_credit": "Liz Osborn",
+  "image_license": "CC BY-NC",
+  "image_license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "tongue_length": null
+ }
+]

@@ -1,0 +1,5551 @@
+[
+ {
+  "id": "d19eff56-aeb2-4ed0-9353-32a96663e6c3",
+  "species": "Carterocephalus mandan",
+  "common_names": [
+   "Arctic Skipper"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "May",
+  "active_end": "July",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/arcticSkipper.jpeg"
+  ],
+  "butterfly_image_own": [
+   "Jim Dugan"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Skipperling",
+  "dorsalPattern": [
+   "Bright Spots"
+  ],
+  "ventralPattern": [
+   "Bright Spots",
+   "Checkered"
+  ],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "Orange"
+  ],
+  "dorsalSecondaryColor": [
+   "Orange"
+  ],
+  "ventralPrimaryColor": [
+   "Brown",
+   "White"
+  ],
+  "ventralSecondaryColor": [
+   "White"
+  ]
+ },
+ {
+  "id": "0e444c86-efe0-4518-a6fb-4ae38fbf6b0f",
+  "species": "Euphyes conspicua",
+  "common_names": [
+   "Black Dash"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "June",
+  "active_end": "August",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/blackDash.jpg"
+  ],
+  "butterfly_image_own": [
+   "Paul Sweet"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-sa/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Grass Skipper",
+  "dorsalPattern": [
+   "Bright Spots"
+  ],
+  "ventralPattern": [
+   "Checkered"
+  ],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "White"
+  ],
+  "dorsalSecondaryColor": [
+   "White"
+  ],
+  "ventralPrimaryColor": [
+   "Copper",
+   "Orange",
+   "Brown",
+   "White"
+  ],
+  "ventralSecondaryColor": [
+   "White"
+  ]
+ },
+ {
+  "id": "1e7827ac-8797-408b-8c01-dcc9bb54e5b4",
+  "species": "Calpodes ethlius",
+  "common_names": [
+   "Brazilian Skipper"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "January",
+  "active_end": "December",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/brazilianSkipper.jpg"
+  ],
+  "butterfly_image_own": [
+   "sarinole"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Grass Skipper",
+  "dorsalPattern": [
+   "Bright Spots"
+  ],
+  "ventralPattern": [
+   "Bright Spots"
+  ],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "White"
+  ],
+  "dorsalSecondaryColor": [
+   "White"
+  ],
+  "ventralPrimaryColor": [
+   "Brown",
+   "Orange",
+   "White"
+  ],
+  "ventralSecondaryColor": [
+   "White"
+  ]
+ },
+ {
+  "id": "141ab4f6-995d-4aef-9c69-890ea865ef27",
+  "species": "Poanes viator",
+  "common_names": [
+   "Broad-winged Skipper"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "April",
+  "active_end": "October",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/broadwingedSkipper.jpg"
+  ],
+  "butterfly_image_own": [
+   "Bill Bouton"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Grass Skipper",
+  "dorsalPattern": [
+   "Checkered"
+  ],
+  "ventralPattern": [
+   "Mottled",
+   "Checkered"
+  ],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Orange",
+   "Brown",
+   "Black"
+  ],
+  "dorsalSecondaryColor": [
+   "Brown",
+   "Black"
+  ],
+  "ventralPrimaryColor": [
+   "Orange",
+   "Brown",
+   "Black"
+  ],
+  "ventralSecondaryColor": [
+   "Brown",
+   "Black"
+  ]
+ },
+ {
+  "id": "c73d3b65-1e2e-4d51-9892-8fb087ff0f9d",
+  "species": "Lerema accius",
+  "common_names": [
+   "Clouded Skipper"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "January",
+  "active_end": "December",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/cloudedSkipper.jpg"
+  ],
+  "butterfly_image_own": [
+   "Paul Sweet"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-sa/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Grass Skipper",
+  "dorsalPattern": [
+   "Dark Spots"
+  ],
+  "ventralPattern": [
+   "Mottled"
+  ],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "White"
+  ],
+  "dorsalSecondaryColor": [
+   "White"
+  ],
+  "ventralPrimaryColor": [
+   "Brown",
+   "Copper",
+   "Grey",
+   "Purple",
+   "White"
+  ],
+  "ventralSecondaryColor": [
+   "Purple",
+   "White"
+  ]
+ },
+ {
+  "id": "534d677e-2faf-48f4-a51f-acffa3495b9f",
+  "species": "Hesperia metea",
+  "common_names": [
+   "Cobweb Skipper"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "March",
+  "active_end": "June",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/cobwebSkipper.jpg"
+  ],
+  "butterfly_image_own": [
+   "conuropsis"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Grass Skipper",
+  "dorsalPattern": [
+   "Bright Spots"
+  ],
+  "ventralPattern": [
+   "Mottled",
+   "Bright Spots"
+  ],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "Orange",
+   "White"
+  ],
+  "dorsalSecondaryColor": [
+   "Orange",
+   "White"
+  ],
+  "ventralPrimaryColor": [
+   "Brown",
+   "White"
+  ],
+  "ventralSecondaryColor": [
+   "White"
+  ]
+ },
+ {
+  "id": "5235941c-6879-4787-9b2c-173bc6148eb7",
+  "species": "Burnsius communis",
+  "common_names": [
+   "Common Checkered Skipper"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "February",
+  "active_end": "December",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/commonCheckeredSkipper.jpg"
+  ],
+  "butterfly_image_own": [
+   "Paul Sweet"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-sa/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Spread-wing Skipper",
+  "dorsalPattern": [
+   "Bright Spots"
+  ],
+  "ventralPattern": [
+   "Dark Spots"
+  ],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "White"
+  ],
+  "dorsalSecondaryColor": [
+   "White"
+  ],
+  "ventralPrimaryColor": [
+   "White",
+   "Brown"
+  ],
+  "ventralSecondaryColor": [
+   "Brown"
+  ]
+ },
+ {
+  "id": "d91ec882-60cd-4ed0-a090-cb7032dac38a",
+  "species": "Amblyscirtes vialis",
+  "common_names": [
+   "Common Roadside Skipper"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "March",
+  "active_end": "September",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/commonRoadsideSkipper.jpg"
+  ],
+  "butterfly_image_own": [
+   "Paul Sweet"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-sa/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Grass Skipper",
+  "dorsalPattern": [
+   "Dark Spots"
+  ],
+  "ventralPattern": [
+   "Mottled",
+   "Dark Spots"
+  ],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "Copper",
+   "White"
+  ],
+  "dorsalSecondaryColor": [
+   "White"
+  ],
+  "ventralPrimaryColor": [
+   "Brown",
+   "Copper",
+   "White",
+   "Grey"
+  ],
+  "ventralSecondaryColor": [
+   "White",
+   "Grey"
+  ]
+ },
+ {
+  "id": "82062126-74a1-43dd-a7f1-d55ea2a11ade",
+  "species": "Pholisora catullus",
+  "common_names": [
+   "Common Sootywing"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "April",
+  "active_end": "September",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/commonSootywing.jpg"
+  ],
+  "butterfly_image_own": [
+   "Chris"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Spread-wing Skipper",
+  "dorsalPattern": [
+   "Dark Spots"
+  ],
+  "ventralPattern": [
+   "Dark Spots"
+  ],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "White"
+  ],
+  "dorsalSecondaryColor": [
+   "White"
+  ],
+  "ventralPrimaryColor": [
+   "Brown",
+   "White"
+  ],
+  "ventralSecondaryColor": [
+   "White"
+  ]
+ },
+ {
+  "id": "0062d374-dd54-41ed-88e4-dbec258339ab",
+  "species": "Polites origenes",
+  "common_names": [
+   "Crossline Skipper"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "May",
+  "active_end": "October",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/crosslineSkipper.jpeg"
+  ],
+  "butterfly_image_own": [
+   "Paul Sweet"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-sa/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Grass Skipper",
+  "dorsalPattern": [
+   "Dark Spots"
+  ],
+  "ventralPattern": [
+   "Dark Spots"
+  ],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "Orange",
+   "White"
+  ],
+  "dorsalSecondaryColor": [
+   "Orange",
+   "White"
+  ],
+  "ventralPrimaryColor": [
+   "Brown",
+   "Orange",
+   "White"
+  ],
+  "ventralSecondaryColor": [
+   "White"
+  ]
+ },
+ {
+  "id": "b5d588fe-a480-4c51-9356-6370e9bfe266",
+  "species": "Anatrytone logan",
+  "common_names": [
+   "Delaware Skipper"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "May",
+  "active_end": "October",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/delawareSkipper.jpg"
+  ],
+  "butterfly_image_own": [
+   "Paul Sweet"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-sa/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Grass Skipper",
+  "dorsalPattern": [],
+  "ventralPattern": [],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Orange",
+   "Black",
+   "Brown"
+  ],
+  "dorsalSecondaryColor": [
+   "Black",
+   "Brown"
+  ],
+  "ventralPrimaryColor": [
+   "Orange"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "e6560723-ba4d-4972-ac8b-67686c418e68",
+  "species": "Euphyes dion",
+  "common_names": [
+   "Dion Skipper"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "May",
+  "active_end": "October",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/dionSkipper.jpg"
+  ],
+  "butterfly_image_own": [
+   "Paul Sweet"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-sa/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Grass Skipper",
+  "dorsalPattern": [
+   "Dark Spots"
+  ],
+  "ventralPattern": [
+   "Mottled"
+  ],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "Orange",
+   "Black"
+  ],
+  "dorsalSecondaryColor": [
+   "Orange",
+   "Black"
+  ],
+  "ventralPrimaryColor": [
+   "Orange",
+   "Copper",
+   "Brown"
+  ],
+  "ventralSecondaryColor": [
+   "Copper",
+   "Brown"
+  ]
+ },
+ {
+  "id": "db156c79-98c0-4764-9739-d6f8ca25bf42",
+  "species": "Erynnis icelus",
+  "common_names": [
+   "Dreamy Duskywing"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "April",
+  "active_end": "July",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/dreamyDuskywing.jpeg"
+  ],
+  "butterfly_image_own": [
+   "Paul Sweet"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-sa/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Spread-wing Skipper",
+  "dorsalPattern": [
+   "Mottled"
+  ],
+  "ventralPattern": [
+   "Dark Spots"
+  ],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "White"
+  ],
+  "dorsalSecondaryColor": [
+   "White"
+  ],
+  "ventralPrimaryColor": [
+   "Brown",
+   "White"
+  ],
+  "ventralSecondaryColor": [
+   "White"
+  ]
+ },
+ {
+  "id": "2b0a1b25-d5bb-4fff-b422-f7845b2e60c7",
+  "species": "Euphyes vestris",
+  "common_names": [
+   "Dun Skipper"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "March",
+  "active_end": "October",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/dunSkipper.jpeg"
+  ],
+  "butterfly_image_own": [
+   "Paul Sweet"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-sa/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Grass Skipper",
+  "dorsalPattern": [
+   "Bright Spots"
+  ],
+  "ventralPattern": [
+   "Mottled",
+   "Iridescent"
+  ],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "White"
+  ],
+  "dorsalSecondaryColor": [
+   "White"
+  ],
+  "ventralPrimaryColor": [
+   "Brown",
+   "Copper"
+  ],
+  "ventralSecondaryColor": [
+   "Copper"
+  ]
+ },
+ {
+  "id": "f673f4d0-2e3c-4e38-b24b-a1f9d16b3eca",
+  "species": "Atrytonopsis hianna",
+  "common_names": [
+   "Dusted Skipper"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "April",
+  "active_end": "July",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/dustedSkipper.jpg"
+  ],
+  "butterfly_image_own": [
+   "cotinis"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Grass Skipper",
+  "dorsalPattern": [
+   "Dark Spots"
+  ],
+  "ventralPattern": [
+   "Mottled",
+   "Dark Spots"
+  ],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "Copper",
+   "White"
+  ],
+  "dorsalSecondaryColor": [
+   "White"
+  ],
+  "ventralPrimaryColor": [
+   "Brown",
+   "Copper",
+   "Grey",
+   "White"
+  ],
+  "ventralSecondaryColor": [
+   "Grey",
+   "White"
+  ]
+ },
+ {
+  "id": "ab063ea9-979c-4b40-9e80-cdb98fd1ba3a",
+  "species": "Thymelicus lineola",
+  "common_names": [
+   "Essex Skipper"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "May",
+  "active_end": "August",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/essexSkipper.jpeg"
+  ],
+  "butterfly_image_own": [
+   "Paul Sweet"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-sa/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Grass Skipper",
+  "dorsalPattern": [],
+  "ventralPattern": [],
+  "antennae": "clubbed",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Orange",
+   "Black"
+  ],
+  "dorsalSecondaryColor": [],
+  "ventralPrimaryColor": [
+   "Orange",
+   "Grey",
+   "White"
+  ],
+  "ventralSecondaryColor": [
+   "Grey",
+   "White"
+  ]
+ },
+ {
+  "id": "e5f7c7f5-fb0d-43a5-9c44-78b1a784050b",
+  "species": "Hylephila phyleus",
+  "common_names": [
+   "Fiery Skipper"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "January",
+  "active_end": "December",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/fierySkipper.jpg"
+  ],
+  "butterfly_image_own": [
+   "Paul Sweet"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-sa/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Grass Skipper",
+  "dorsalPattern": [],
+  "ventralPattern": [
+   "Dark Spots"
+  ],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Orange",
+   "Black"
+  ],
+  "dorsalSecondaryColor": [],
+  "ventralPrimaryColor": [
+   "Orange",
+   "Brown",
+   "Black"
+  ],
+  "ventralSecondaryColor": [
+   "Brown",
+   "Black"
+  ]
+ },
+ {
+  "id": "41ab79bd-f1e6-4951-93dd-d9875190335a",
+  "species": "Thorybes lyciades",
+  "common_names": [
+   "Hoary Edge"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "March",
+  "active_end": "September",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/hoaryEdge.jpg"
+  ],
+  "butterfly_image_own": [
+   "Greg Lasley"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Spread-wing Skipper",
+  "dorsalPattern": [
+   "Dark Spots"
+  ],
+  "ventralPattern": [
+   "Dark Spots",
+   "Mottled"
+  ],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "Orange"
+  ],
+  "dorsalSecondaryColor": [
+   "Orange"
+  ],
+  "ventralPrimaryColor": [
+   "Brown",
+   "White",
+   "Orange",
+   "Black"
+  ],
+  "ventralSecondaryColor": [
+   "Orange",
+   "Black"
+  ]
+ },
+ {
+  "id": "064f5017-b367-423a-9931-b2d9e0accb8f",
+  "species": "Lon hobomok",
+  "common_names": [
+   "Hobomok Skipper"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "April",
+  "active_end": "July",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/hobomokSkipper.jpg"
+  ],
+  "butterfly_image_own": [
+   "Paul Sweet"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-sa/4.0"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Grass Skipper",
+  "dorsalPattern": [],
+  "ventralPattern": [
+   "Checkered"
+  ],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Orange",
+   "Black"
+  ],
+  "dorsalSecondaryColor": [
+   "Black"
+  ],
+  "ventralPrimaryColor": [
+   "Brown",
+   "White"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "f3274ee2-7664-4c55-8628-34f238816cf9",
+  "species": "Polites peckius",
+  "common_names": [
+   "Pecks Skipper"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "April",
+  "active_end": "October",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/pecksSkipper.jpeg"
+  ],
+  "butterfly_image_own": [
+   "Paul Sweet"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-sa/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Grass Skipper",
+  "dorsalPattern": [
+   "Checkered"
+  ],
+  "ventralPattern": [
+   "Checkered"
+  ],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "Black",
+   "Orange"
+  ],
+  "dorsalSecondaryColor": [
+   "Orange"
+  ],
+  "ventralPrimaryColor": [
+   "Brown",
+   "White"
+  ],
+  "ventralSecondaryColor": [
+   "White"
+  ]
+ },
+ {
+  "id": "b3ad47ba-af84-445b-a363-09397c31be7a",
+  "species": "Erynnis horatius",
+  "common_names": [
+   "Horaces Duskywing"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "March",
+  "active_end": "November",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/horacesDuskywing.jpg"
+  ],
+  "butterfly_image_own": [
+   "Paul Sweet"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-sa/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Spread-wing Skipper",
+  "dorsalPattern": [
+   "Dark Spots",
+   "Mottled"
+  ],
+  "ventralPattern": [
+   "Dark Spots"
+  ],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "Black",
+   "White"
+  ],
+  "dorsalSecondaryColor": [
+   "Black",
+   "White"
+  ],
+  "ventralPrimaryColor": [
+   "Brown",
+   "White"
+  ],
+  "ventralSecondaryColor": [
+   "White"
+  ]
+ },
+ {
+  "id": "7e81c4fc-fc03-4ea3-b7eb-cad9b117bdbf",
+  "species": "Hesperia sassacus",
+  "common_names": [
+   "Indian Skipper"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "January",
+  "active_end": "December",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/indianSkipper.jpeg"
+  ],
+  "butterfly_image_own": [
+   "Paul Sweet"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-sa/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Grass Skipper",
+  "dorsalPattern": [],
+  "ventralPattern": [
+   "Dark Spots"
+  ],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Black",
+   "Orange"
+  ],
+  "dorsalSecondaryColor": [],
+  "ventralPrimaryColor": [
+   "Orange",
+   "Brown",
+   "White"
+  ],
+  "ventralSecondaryColor": [
+   "Brown",
+   "White"
+  ]
+ },
+ {
+  "id": "42d1fbfd-8429-41cc-a482-24bc1f96eb94",
+  "species": "Erynnis juvenalis",
+  "common_names": [
+   "Juvenals Duskywing"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "February",
+  "active_end": "July",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/juvenalsDuskywing.jpg"
+  ],
+  "butterfly_image_own": [
+   "Paul Sweet"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-sa/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Spread-wing Skipper",
+  "dorsalPattern": [
+   "Dark Spots",
+   "Mottled"
+  ],
+  "ventralPattern": [
+   "Dark Spots"
+  ],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "Copper",
+   "Black",
+   "White"
+  ],
+  "dorsalSecondaryColor": [
+   "Copper",
+   "Black",
+   "White"
+  ],
+  "ventralPrimaryColor": [
+   "Brown",
+   "White"
+  ],
+  "ventralSecondaryColor": [
+   "White"
+  ]
+ },
+ {
+  "id": "548197c3-7574-4121-8b8b-83779e83bf48",
+  "species": "Ancyloxypha numitor",
+  "common_names": [
+   "Least Skipper"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "April",
+  "active_end": "October",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/leastSkipper.jpg"
+  ],
+  "butterfly_image_own": [
+   "Paul Sweet"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-sa/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Grass Skipper",
+  "dorsalPattern": [],
+  "ventralPattern": [],
+  "antennae": "clubbed",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Orange",
+   "Black"
+  ],
+  "dorsalSecondaryColor": [],
+  "ventralPrimaryColor": [
+   "Orange"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "1137827c-1012-4726-aa98-6215912f5ede",
+  "species": "Hesperia leonardus",
+  "common_names": [
+   "Leonards Skipper"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "July",
+  "active_end": "October",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/leonardsSkipper.jpg"
+  ],
+  "butterfly_image_own": [
+   "greenjay6"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Grass Skipper",
+  "dorsalPattern": [
+   "Dark Spots"
+  ],
+  "ventralPattern": [
+   "Dark Spots"
+  ],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Black",
+   "Orange"
+  ],
+  "dorsalSecondaryColor": [
+   "Orange"
+  ],
+  "ventralPrimaryColor": [
+   "Brown",
+   "White"
+  ],
+  "ventralSecondaryColor": [
+   "White"
+  ]
+ },
+ {
+  "id": "116e14bf-09c8-4aa4-a7ca-5d6cf5479ed1",
+  "species": "Pompeius verna",
+  "common_names": [
+   "Little Glassywing"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "May",
+  "active_end": "September",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/littleGlassywing.jpg"
+  ],
+  "butterfly_image_own": [
+   "Jon Dombrowski"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Grass Skipper",
+  "dorsalPattern": [
+   "Bright Spots"
+  ],
+  "ventralPattern": [
+   "Bright Spots"
+  ],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "White"
+  ],
+  "dorsalSecondaryColor": [
+   "White"
+  ],
+  "ventralPrimaryColor": [
+   "Brown",
+   "White"
+  ],
+  "ventralSecondaryColor": [
+   "White"
+  ]
+ },
+ {
+  "id": "3c67e5ed-82b7-46aa-997b-403215a5c653",
+  "species": "Polites mystic",
+  "common_names": [
+   "Long Dash"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "May",
+  "active_end": "August",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/longDash.jpg"
+  ],
+  "butterfly_image_own": [
+   "Scott King"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Grass Skipper",
+  "dorsalPattern": [
+   "Checkered"
+  ],
+  "ventralPattern": [
+   "Checkered"
+  ],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Orange",
+   "Black"
+  ],
+  "dorsalSecondaryColor": [],
+  "ventralPrimaryColor": [
+   "Brown",
+   "White"
+  ],
+  "ventralSecondaryColor": [
+   "White"
+  ]
+ },
+ {
+  "id": "a1747c43-1078-4578-b2e1-5156cd183f0a",
+  "species": "Urbanus proteus",
+  "common_names": [
+   "Long-tailed Skipper"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "January",
+  "active_end": "December",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/longTailedSkipper.jpg"
+  ],
+  "butterfly_image_own": [
+   "Paul Sweet"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-sa/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Spread-wing Skipper",
+  "dorsalPattern": [
+   "Dark Spots"
+  ],
+  "ventralPattern": [
+   "Dark Spots"
+  ],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "Yes",
+  "wing_size": "Large",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "Blue",
+   "White"
+  ],
+  "dorsalSecondaryColor": [
+   "White"
+  ],
+  "ventralPrimaryColor": [
+   "Brown",
+   "White",
+   "Black"
+  ],
+  "ventralSecondaryColor": [
+   "White",
+   "Black"
+  ]
+ },
+ {
+  "id": "cf43c54d-3464-4b37-9a32-31c54498c6e4",
+  "species": "Poanes massasoit",
+  "common_names": [
+   "Mulberry Wing"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "June",
+  "active_end": "August",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/mulberryWing.jpeg"
+  ],
+  "butterfly_image_own": [
+   "Paul Sweet"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-sa/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Grass Skipper",
+  "dorsalPattern": [
+   "Dark Spots"
+  ],
+  "ventralPattern": [
+   "Checkered"
+  ],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "White"
+  ],
+  "dorsalSecondaryColor": [
+   "White"
+  ],
+  "ventralPrimaryColor": [
+   "Brown",
+   "White"
+  ],
+  "ventralSecondaryColor": [
+   "White"
+  ]
+ },
+ {
+  "id": "b9639963-979d-41bf-9059-05e4db15d9c7",
+  "species": "Wallengrenia egeremet",
+  "common_names": [
+   "Northern Broken Dash"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "May",
+  "active_end": "September",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/northernBrokenDash.jpg"
+  ],
+  "butterfly_image_own": [
+   "Paul Sweet"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-sa/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Grass Skipper",
+  "dorsalPattern": [
+   "Checkered"
+  ],
+  "ventralPattern": [
+   "Checkered"
+  ],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "White"
+  ],
+  "dorsalSecondaryColor": [
+   "White"
+  ],
+  "ventralPrimaryColor": [
+   "Brown",
+   "White"
+  ],
+  "ventralSecondaryColor": [
+   "White"
+  ]
+ },
+ {
+  "id": "d3cd5890-f9f7-4913-ab41-af3bef0d47d6",
+  "species": "Thorybes pylades",
+  "common_names": [
+   "Northern Cloudywing"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "March",
+  "active_end": "September",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/northernCloudywing.jpeg"
+  ],
+  "butterfly_image_own": [
+   "Paul Sweet"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-sa/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Spread-wing Skipper",
+  "dorsalPattern": [
+   "Dark Spots"
+  ],
+  "ventralPattern": [
+   "Dark Spots",
+   "Mottled"
+  ],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "Black",
+   "Grey",
+   "White"
+  ],
+  "dorsalSecondaryColor": [
+   "Grey",
+   "White"
+  ],
+  "ventralPrimaryColor": [
+   "Brown",
+   "White",
+   "Copper"
+  ],
+  "ventralSecondaryColor": [
+   "White",
+   "Copper"
+  ]
+ },
+ {
+  "id": "ba0d8a9c-55d8-4673-b537-0415224129d9",
+  "species": "Panoquina ocola",
+  "common_names": [
+   "Ocola Skipper"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "June",
+  "active_end": "December",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/ocolaSkipper.jpg"
+  ],
+  "butterfly_image_own": [
+   "Greg Lasley"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Grass Skipper",
+  "dorsalPattern": [
+   "Dark Spots"
+  ],
+  "ventralPattern": [
+   "Dark Spots"
+  ],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "Copper",
+   "Orange"
+  ],
+  "dorsalSecondaryColor": [
+   "Orange"
+  ],
+  "ventralPrimaryColor": [
+   "Brown",
+   "White"
+  ],
+  "ventralSecondaryColor": [
+   "White"
+  ]
+ },
+ {
+  "id": "fd2b2e34-b202-4a16-ba76-7a9d2439cef9",
+  "species": "Amblyscirtes hegon",
+  "common_names": [
+   "Pepper-and-salt Skipper"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "March",
+  "active_end": "July",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/pepperAndSaltSkipper.jpg"
+  ],
+  "butterfly_image_own": [
+   "Bill Bouton"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Grass Skipper",
+  "dorsalPattern": [
+   "Dark Spots"
+  ],
+  "ventralPattern": [
+   "Mottled",
+   "Checkered"
+  ],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "Copper",
+   "White"
+  ],
+  "dorsalSecondaryColor": [
+   "White"
+  ],
+  "ventralPrimaryColor": [
+   "Black",
+   "White",
+   "Grey"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "ff5621cd-a059-49bc-95e8-b8d537043364",
+  "species": "Erynnis persius",
+  "common_names": [
+   "Persius Duskywing"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "April",
+  "active_end": "August",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/persiusDuskywing.jpg"
+  ],
+  "butterfly_image_own": [
+   "cschelz7"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Spread-wing Skipper",
+  "dorsalPattern": [
+   "Dark Spots",
+   "Mottled"
+  ],
+  "ventralPattern": [
+   "Dark Spots"
+  ],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "Black",
+   "White",
+   "Grey"
+  ],
+  "dorsalSecondaryColor": [
+   "White",
+   "Grey"
+  ],
+  "ventralPrimaryColor": [
+   "Brown",
+   "White"
+  ],
+  "ventralSecondaryColor": [
+   "White"
+  ]
+ },
+ {
+  "id": "fc6c905f-c674-4e27-b7e2-21803ead5db6",
+  "species": "Atalopedes campestris",
+  "common_names": [
+   "Sachem"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "March",
+  "active_end": "November",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/sachem.jpg"
+  ],
+  "butterfly_image_own": [
+   "Paul Sweet"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-sa/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Grass Skipper",
+  "dorsalPattern": [
+   "Checkered"
+  ],
+  "ventralPattern": [
+   "Mottled",
+   "Checkered"
+  ],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Black",
+   "Orange",
+   "Brown",
+   "White"
+  ],
+  "dorsalSecondaryColor": [
+   "White"
+  ],
+  "ventralPrimaryColor": [
+   "Brown",
+   "Orange",
+   "White"
+  ],
+  "ventralSecondaryColor": [
+   "White"
+  ]
+ },
+ {
+  "id": "32faaaee-84fa-458d-9742-707de3ada86c",
+  "species": "Epargyreus clarus",
+  "common_names": [
+   "Silver-spotted Skipper"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "March",
+  "active_end": "October",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/silverSpottedSkipper.jpg"
+  ],
+  "butterfly_image_own": [
+   "Paul Sweet"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-sa/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Spread-wing Skipper",
+  "dorsalPattern": [
+   "Dark Spots"
+  ],
+  "ventralPattern": [],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "Orange"
+  ],
+  "dorsalSecondaryColor": [
+   "Orange"
+  ],
+  "ventralPrimaryColor": [
+   "Brown",
+   "White",
+   "Orange"
+  ],
+  "ventralSecondaryColor": [
+   "White",
+   "Orange"
+  ]
+ },
+ {
+  "id": "08c340bd-518f-4236-a4fe-192e0b5e0291",
+  "species": "Erynnis brizo",
+  "common_names": [
+   "Sleepy Duskywing"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "February",
+  "active_end": "June",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/sleepyDuskywing.jpg"
+  ],
+  "butterfly_image_own": [
+   "Paul G. Johnson"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Spread-wing Skipper",
+  "dorsalPattern": [
+   "Dark Spots",
+   "Mottled"
+  ],
+  "ventralPattern": [
+   "Dark Spots"
+  ],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "White",
+   "Black",
+   "Grey"
+  ],
+  "dorsalSecondaryColor": [
+   "White",
+   "Black",
+   "Grey"
+  ],
+  "ventralPrimaryColor": [
+   "Brown",
+   "White"
+  ],
+  "ventralSecondaryColor": [
+   "White"
+  ]
+ },
+ {
+  "id": "05e7cc0b-98ab-4c26-b9c5-f3f4e5b1f3bb",
+  "species": "Thorybes bathyllus",
+  "common_names": [
+   "Southern Cloudywing"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "March",
+  "active_end": "September",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/southernCloudywing.jpg"
+  ],
+  "butterfly_image_own": [
+   "John Rosford"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Spread-wing Skipper",
+  "dorsalPattern": [
+   "Dark Spots"
+  ],
+  "ventralPattern": [
+   "Dark Spots"
+  ],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "White"
+  ],
+  "dorsalSecondaryColor": [
+   "White"
+  ],
+  "ventralPrimaryColor": [
+   "Brown",
+   "Copper",
+   "White"
+  ],
+  "ventralSecondaryColor": [
+   "Copper",
+   "White"
+  ]
+ },
+ {
+  "id": "e53884c0-599c-4154-a551-6ad7fd804873",
+  "species": "Polites themistocles",
+  "common_names": [
+   "Tawny-edged Skipper"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "May",
+  "active_end": "October",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/tawnyEdgedSkipper.jpg"
+  ],
+  "butterfly_image_own": [
+   "Paul Sweet"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-sa/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Grass Skipper",
+  "dorsalPattern": [
+   "Checkered"
+  ],
+  "ventralPattern": [
+   "Mottled"
+  ],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Black",
+   "Orange",
+   "Brown",
+   "White"
+  ],
+  "dorsalSecondaryColor": [
+   "Brown",
+   "White"
+  ],
+  "ventralPrimaryColor": [
+   "Grey",
+   "Brown",
+   "White",
+   "Orange"
+  ],
+  "ventralSecondaryColor": [
+   "Orange"
+  ]
+ },
+ {
+  "id": "3f8392c6-8464-4ddc-8a99-2d5461280805",
+  "species": "Oligoria maculata",
+  "common_names": [
+   "Twin Spot Skipper"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "January",
+  "active_end": "November",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/twinSpotSkipper.jpg"
+  ],
+  "butterfly_image_own": [
+   "Edward Perry IV"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Grass Skipper",
+  "dorsalPattern": [
+   "Dark Spots"
+  ],
+  "ventralPattern": [
+   "Dark Spots",
+   "Mottled"
+  ],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "White"
+  ],
+  "dorsalSecondaryColor": [
+   "White"
+  ],
+  "ventralPrimaryColor": [
+   "Brown",
+   "Copper",
+   "White"
+  ],
+  "ventralSecondaryColor": [
+   "White"
+  ]
+ },
+ {
+  "id": "6f7aa95d-ba82-477c-b66b-29e9d57098ab",
+  "species": "Euphyes bimacula",
+  "common_names": [
+   "Two-spotted Skipper"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "May",
+  "active_end": "August",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/twoSpottedSkipper.jpg"
+  ],
+  "butterfly_image_own": [
+   "hobiecat"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Grass Skipper",
+  "dorsalPattern": [
+   "Dark Spots"
+  ],
+  "ventralPattern": [
+   "Mottled"
+  ],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "Copper",
+   "White"
+  ],
+  "dorsalSecondaryColor": [
+   "Copper",
+   "White"
+  ],
+  "ventralPrimaryColor": [
+   "Orange",
+   "Brown",
+   "Copper"
+  ],
+  "ventralSecondaryColor": [
+   "Brown",
+   "Copper"
+  ]
+ },
+ {
+  "id": "e8921e5a-e269-45df-bc42-d331d86a3756",
+  "species": "Erynnis baptisiae",
+  "common_names": [
+   "Wild Indigo Duskywing"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "April",
+  "active_end": "October",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/wildIndigoDuskywing.jpg"
+  ],
+  "butterfly_image_own": [
+   "Paul Sweet"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-sa/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Spread-wing Skipper",
+  "dorsalPattern": [
+   "Dark Spots",
+   "Mottled"
+  ],
+  "ventralPattern": [
+   "Dark Spots"
+  ],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "Black",
+   "White",
+   "Grey"
+  ],
+  "dorsalSecondaryColor": [
+   "Black",
+   "White",
+   "Grey"
+  ],
+  "ventralPrimaryColor": [
+   "Brown",
+   "White"
+  ],
+  "ventralSecondaryColor": [
+   "White"
+  ]
+ },
+ {
+  "id": "09e52d9c-fc15-4aac-a68c-4dadfdca8f84",
+  "species": "Lon zabulon",
+  "common_names": [
+   "Zabulon Skipper"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "April",
+  "active_end": "September",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/zabulonSkipper.jpg"
+  ],
+  "butterfly_image_own": [
+   "prett"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-sa/4.0/"
+  ],
+  "family": "Hesperiidae",
+  "subfamily": "Grass Skipper",
+  "dorsalPattern": [],
+  "ventralPattern": [
+   "Dark Spots",
+   "Checkered"
+  ],
+  "antennae": "hooked",
+  "wing_shape": "Skipper",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Orange",
+   "Brown",
+   "Black"
+  ],
+  "dorsalSecondaryColor": [
+   "Brown",
+   "Black"
+  ],
+  "ventralPrimaryColor": [
+   "Orange",
+   "White",
+   "Brown",
+   "Copper"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "af22ff19-283a-4b5f-af91-e3dc7833331f",
+  "species": "Satyrium acadica",
+  "common_names": [
+   "Acadian Hairstreak"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "June",
+  "active_end": "August",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/acadianHairstreak.jpeg"
+  ],
+  "butterfly_image_own": [
+   "Jacob Collison"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Lycaenidae",
+  "subfamily": "Hairstreak",
+  "dorsalPattern": [
+   "Bright Spots"
+  ],
+  "ventralPattern": [
+   "Dark Spots",
+   "Bright Spots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Hairstreak",
+  "tails": "Yes",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Grey"
+  ],
+  "dorsalSecondaryColor": [],
+  "ventralPrimaryColor": [
+   "Grey",
+   "Orange"
+  ],
+  "ventralSecondaryColor": [
+   "Orange"
+  ]
+ },
+ {
+  "id": "edfab26a-dee8-4674-9a8f-ea87770f4c5e",
+  "species": "Lycaena phlaeas",
+  "common_names": [
+   "American Copper"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "February",
+  "active_end": "November",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/americanCopper.jfif"
+  ],
+  "butterfly_image_own": [
+   "Ronald Werson"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  ],
+  "family": "Lycaenidae",
+  "subfamily": "Copper",
+  "dorsalPattern": [
+   "Dark Spots"
+  ],
+  "ventralPattern": [
+   "Dark Spots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Orange",
+   "Black"
+  ],
+  "dorsalSecondaryColor": [
+   "Black"
+  ],
+  "ventralPrimaryColor": [
+   "Grey",
+   "Orange"
+  ],
+  "ventralSecondaryColor": [
+   "Orange"
+  ]
+ },
+ {
+  "id": "ad78bdd5-256c-4214-8e60-d45b040a1330",
+  "species": "Satyrium calanus",
+  "common_names": [
+   "Banded Hairstreak"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "May",
+  "active_end": "August",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/bandedHairstreak.jpeg"
+  ],
+  "butterfly_image_own": [
+   "Paul Sweet"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-sa/4.0/"
+  ],
+  "family": "Lycaenidae",
+  "subfamily": "Hairstreak",
+  "dorsalPattern": [
+   "Bright Spots"
+  ],
+  "ventralPattern": [
+   "Dark Spots",
+   "Bright Spots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Hairstreak",
+  "tails": "Yes",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "Black"
+  ],
+  "dorsalSecondaryColor": [
+   "Black"
+  ],
+  "ventralPrimaryColor": [
+   "Grey",
+   "Orange"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "6bea0f7c-d28a-446c-b546-038af1ba9a1a",
+  "species": "Tharsalea epixanthe",
+  "common_names": [
+   "Bog Copper"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "June",
+  "active_end": "August",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/bogCopper.jpg"
+  ],
+  "butterfly_image_own": [
+   "Denis Doucet"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Lycaenidae",
+  "subfamily": "Copper",
+  "dorsalPattern": [
+   "Dark Spots",
+   "Bright Spots"
+  ],
+  "ventralPattern": [
+   "Dark Spots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Grey",
+   "Brown"
+  ],
+  "dorsalSecondaryColor": [],
+  "ventralPrimaryColor": [
+   "Yellow",
+   "Orange",
+   "Grey"
+  ],
+  "ventralSecondaryColor": [
+   "Grey"
+  ]
+ },
+ {
+  "id": "db14c0cb-f4eb-4737-b229-96850b5de750",
+  "species": "Callophrys lanoraieensis",
+  "common_names": [
+   "Bog Elfin"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "May",
+  "active_end": "June",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/bogElfin.jpg"
+  ],
+  "butterfly_image_own": [
+   "ColinDJones"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Lycaenidae",
+  "subfamily": "Hairstreak",
+  "dorsalPattern": [
+   "Bright Spots"
+  ],
+  "ventralPattern": [
+   "Frosted",
+   "Striped"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Hairstreak",
+  "tails": "Yes",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "Orange"
+  ],
+  "dorsalSecondaryColor": [
+   "Orange"
+  ],
+  "ventralPrimaryColor": [
+   "Brown"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "fb51def7-8d40-4395-bab9-afe4aac73330",
+  "species": "Tharsalea hyllus",
+  "common_names": [
+   "Bronze Copper"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "May",
+  "active_end": "October",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/bronzeCopper.jpeg"
+  ],
+  "butterfly_image_own": [
+   "Tom Murray"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Lycaenidae",
+  "subfamily": "Copper",
+  "dorsalPattern": [
+   "Dark Spots"
+  ],
+  "ventralPattern": [
+   "Dark Spots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Copper",
+   "Orange",
+   "Black"
+  ],
+  "dorsalSecondaryColor": [
+   "Black"
+  ],
+  "ventralPrimaryColor": [
+   "Grey",
+   "Orange"
+  ],
+  "ventralSecondaryColor": [
+   "Orange"
+  ]
+ },
+ {
+  "id": "f4958819-1004-4cfe-9f45-4ef3fe5f86b3",
+  "species": "Callophrys augustinus",
+  "common_names": [
+   "Brown Elfin"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "February",
+  "active_end": "July",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/brownElfin.jpg"
+  ],
+  "butterfly_image_own": [
+   "Mark Wynja"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Lycaenidae",
+  "subfamily": "Hairstreak",
+  "dorsalPattern": [],
+  "ventralPattern": [
+   "Iridescent"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Hairstreak",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "Red"
+  ],
+  "dorsalSecondaryColor": [
+   "Red"
+  ],
+  "ventralPrimaryColor": [
+   "Brown",
+   "Red"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "b455a0f4-322d-4494-97fe-ee19ebbed5cc",
+  "species": "Satyrium titus",
+  "common_names": [
+   "Coral Hairstreak"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "May",
+  "active_end": "August",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/coralHairstreak.jpg"
+  ],
+  "butterfly_image_own": [
+   "Paul Sweet"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-sa/4.0/"
+  ],
+  "family": "Lycaenidae",
+  "subfamily": "Hairstreak",
+  "dorsalPattern": [
+   "Bright Spots"
+  ],
+  "ventralPattern": [
+   "Dark Spots",
+   "Bright Spots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Hairstreak",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "Orange"
+  ],
+  "dorsalSecondaryColor": [
+   "Orange"
+  ],
+  "ventralPrimaryColor": [
+   "Brown",
+   "Red",
+   "Orange",
+   "Black"
+  ],
+  "ventralSecondaryColor": [
+   "Red",
+   "Orange",
+   "Black"
+  ]
+ },
+ {
+  "id": "090695d1-9a40-448a-99c1-1e4d3c2c1300",
+  "species": "Erora laeta",
+  "common_names": [
+   "Early Hairstreak"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "April",
+  "active_end": "July",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/earlyHairstreak.jpeg"
+  ],
+  "butterfly_image_own": [
+   "Rick Snider"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Lycaenidae",
+  "subfamily": "Hairstreak",
+  "dorsalPattern": [
+   "Iridescent"
+  ],
+  "ventralPattern": [
+   "Striped"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Hairstreak",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Grey",
+   "Blue"
+  ],
+  "dorsalSecondaryColor": [
+   "Blue"
+  ],
+  "ventralPrimaryColor": [
+   "Blue",
+   "Green",
+   "Orange"
+  ],
+  "ventralSecondaryColor": [
+   "Orange"
+  ]
+ },
+ {
+  "id": "68378db9-d4c8-4b4a-8ce3-6cb9c2caf558",
+  "species": "Callophrys niphon",
+  "common_names": [
+   "Eastern Pine Elfin"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "April",
+  "active_end": "July",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/easternPineElfin.jpg"
+  ],
+  "butterfly_image_own": [
+   "Andy P Martin"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Lycaenidae",
+  "subfamily": "Hairstreak",
+  "dorsalPattern": [],
+  "ventralPattern": [
+   "Frosted",
+   "Striped"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Hairstreak",
+  "tails": "Yes",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown"
+  ],
+  "dorsalSecondaryColor": [],
+  "ventralPrimaryColor": [
+   "Brown",
+   "Orange"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "7ba94358-80fe-4091-8c97-c34a88ee0f52",
+  "species": "Cupido comyntas",
+  "common_names": [
+   "Eastern Tailed-Blue"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "March",
+  "active_end": "November",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/easternTailedBlue.jpg"
+  ],
+  "butterfly_image_own": [
+   "Mathew L. Brust"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Lycaenidae",
+  "subfamily": "Blues",
+  "dorsalPattern": [
+   "Iridescent"
+  ],
+  "ventralPattern": [
+   "Dark Spots",
+   "Bright Spots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "Yes",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Blue"
+  ],
+  "dorsalSecondaryColor": [],
+  "ventralPrimaryColor": [
+   "Grey"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "9c699cfb-d069-474d-a751-79e70c77f789",
+  "species": "Satyrium edwardsii",
+  "common_names": [
+   "Edwards Hairstreak"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "June",
+  "active_end": "August",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/edwardsHairstreak.jpg"
+  ],
+  "butterfly_image_own": [
+   "Mathew L. Brust"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Lycaenidae",
+  "subfamily": "Hairstreak",
+  "dorsalPattern": [
+   "Bright Spots"
+  ],
+  "ventralPattern": [
+   "Dark Spots",
+   "Bright Spots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Hairstreak",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Grey",
+   "Brown"
+  ],
+  "dorsalSecondaryColor": [],
+  "ventralPrimaryColor": [
+   "Grey",
+   "Brown",
+   "Orange"
+  ],
+  "ventralSecondaryColor": [
+   "Orange"
+  ]
+ },
+ {
+  "id": "66bb4f1a-30ad-4d51-92a1-960797778dbe",
+  "species": "Callophrys irus",
+  "common_names": [
+   "Frosted Elfin"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "March",
+  "active_end": "June",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/frostedElfin.jpeg"
+  ],
+  "butterfly_image_own": [
+   "Jim Dugan"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Lycaenidae",
+  "subfamily": "Hairstreak",
+  "dorsalPattern": [],
+  "ventralPattern": [
+   "Frosted"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Hairstreak",
+  "tails": "Yes",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown"
+  ],
+  "dorsalSecondaryColor": [],
+  "ventralPrimaryColor": [
+   "Brown"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "b8553ba1-e59c-463d-8c4f-15744620487e",
+  "species": "Strymon melinus",
+  "common_names": [
+   "Gray Hairstreak"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "January",
+  "active_end": "December",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/grayHairstreak.jpeg"
+  ],
+  "butterfly_image_own": [
+   "J. Bailey"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Lycaenidae",
+  "subfamily": "Hairstreak",
+  "dorsalPattern": [
+   "Bright Spots"
+  ],
+  "ventralPattern": [
+   "Bright Spots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Hairstreak",
+  "tails": "Yes",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Grey",
+   "Orange"
+  ],
+  "dorsalSecondaryColor": [
+   "Orange"
+  ],
+  "ventralPrimaryColor": [
+   "Grey",
+   "Orange"
+  ],
+  "ventralSecondaryColor": [
+   "Orange"
+  ]
+ },
+ {
+  "id": "4c0d7f94-59ac-4e1d-a71a-64696adb3a66",
+  "species": "Feniseca tarquinius",
+  "common_names": [
+   "Harvester"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "March",
+  "active_end": "October",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/harvester.jpeg"
+  ],
+  "butterfly_image_own": [
+   "Michael Toliver"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Lycaenidae",
+  "subfamily": "Harvester",
+  "dorsalPattern": [
+   "Mottled"
+  ],
+  "ventralPattern": [
+   "Dark Spots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Orange",
+   "Brown"
+  ],
+  "dorsalSecondaryColor": [
+   "Brown"
+  ],
+  "ventralPrimaryColor": [
+   "Orange",
+   "Brown"
+  ],
+  "ventralSecondaryColor": [
+   "Brown"
+  ]
+ },
+ {
+  "id": "b5b1c198-6e5f-47eb-a45a-c2c08d49754a",
+  "species": "Callophrys henrici",
+  "common_names": [
+   "Henrys Elfin"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "January",
+  "active_end": "June",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/henrysElfin.jpg"
+  ],
+  "butterfly_image_own": [
+   "Joe Bartok"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Lycaenidae",
+  "subfamily": "Hairstreak",
+  "dorsalPattern": [],
+  "ventralPattern": [
+   "Frosted",
+   "Striped"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Hairstreak",
+  "tails": "Yes",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "Orange"
+  ],
+  "dorsalSecondaryColor": [
+   "Orange"
+  ],
+  "ventralPrimaryColor": [
+   "Black",
+   "Brown",
+   "White"
+  ],
+  "ventralSecondaryColor": [
+   "White"
+  ]
+ },
+ {
+  "id": "246fb148-fa6b-4d83-ad9d-88a31baceba8",
+  "species": "Callophrys hesseli",
+  "common_names": [
+   "Hessels Hairstreak"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "February",
+  "active_end": "August",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/hesselsHairstreak.jpeg"
+  ],
+  "butterfly_image_own": [
+   "pdegennaro"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Lycaenidae",
+  "subfamily": "Hairstreak",
+  "dorsalPattern": [],
+  "ventralPattern": [
+   "Striped"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Hairstreak",
+  "tails": "Yes",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "Red"
+  ],
+  "dorsalSecondaryColor": [
+   "Red"
+  ],
+  "ventralPrimaryColor": [
+   "Green",
+   "Brown"
+  ],
+  "ventralSecondaryColor": [
+   "Brown"
+  ]
+ },
+ {
+  "id": "6e4c602a-d783-4da7-8824-2563ab77b415",
+  "species": "Satyrium caryaevorus",
+  "common_names": [
+   "Hickory Hairstreak"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "May",
+  "active_end": "August",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/hickoryHairstreak.jpeg"
+  ],
+  "butterfly_image_own": [
+   "Pat Deacon"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Lycaenidae",
+  "subfamily": "Hairstreak",
+  "dorsalPattern": [],
+  "ventralPattern": [
+   "Dark Spots",
+   "Bright Spots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Hairstreak",
+  "tails": "Yes",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown"
+  ],
+  "dorsalSecondaryColor": [],
+  "ventralPrimaryColor": [
+   "Grey",
+   "Brown"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "8066d932-5e1e-4ac5-988e-074aa0ae497f",
+  "species": "Callophrys polios",
+  "common_names": [
+   "Hoary Elfin"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "April",
+  "active_end": "June",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/hoaryElfin.jpeg"
+  ],
+  "butterfly_image_own": [
+   "Paul Sweet"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-sa/4.0/"
+  ],
+  "family": "Lycaenidae",
+  "subfamily": "Hairstreak",
+  "dorsalPattern": [],
+  "ventralPattern": [
+   "Frosted"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Hairstreak",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown"
+  ],
+  "dorsalSecondaryColor": [],
+  "ventralPrimaryColor": [
+   "Brown",
+   "White"
+  ],
+  "ventralSecondaryColor": [
+   "White"
+  ]
+ },
+ {
+  "id": "d80e602c-8752-4d71-bb70-e71eca491815",
+  "species": "Callophrys gryneus",
+  "common_names": [
+   "Juniper Hairstreak"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "February",
+  "active_end": "October",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/juniperHairstreak.jpg"
+  ],
+  "butterfly_image_own": [
+   "Greg Lasley"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Lycaenidae",
+  "subfamily": "Hairstreak",
+  "dorsalPattern": [],
+  "ventralPattern": [
+   "Striped"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Hairstreak",
+  "tails": "Yes",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Orange",
+   "Copper",
+   "Brown"
+  ],
+  "dorsalSecondaryColor": [],
+  "ventralPrimaryColor": [
+   "Green",
+   "Brown",
+   "White"
+  ],
+  "ventralSecondaryColor": [
+   "Brown",
+   "White"
+  ]
+ },
+ {
+  "id": "510c1167-0567-4ca5-ac4c-188afe49cbcb",
+  "species": "Satyrium favonius",
+  "common_names": [
+   "Oak Hairstreak"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "March",
+  "active_end": "July",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/oakHairstreak.jpg"
+  ],
+  "butterfly_image_own": [
+   "Gerald Carter"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  ],
+  "family": "Lycaenidae",
+  "subfamily": "Hairstreak",
+  "dorsalPattern": [
+   "Bright Spots"
+  ],
+  "ventralPattern": [
+   "Bright Spots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Hairstreak",
+  "tails": "Yes",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Grey",
+   "BrownYellow",
+   "Orange"
+  ],
+  "dorsalSecondaryColor": [
+   "Yellow",
+   "Orange"
+  ],
+  "ventralPrimaryColor": [
+   "Grey",
+   "Brown",
+   "Orange"
+  ],
+  "ventralSecondaryColor": [
+   "Orange"
+  ]
+ },
+ {
+  "id": "5a009ca6-9d3b-4340-ac0a-5f491935b12b",
+  "species": "Calycopis cecrops",
+  "common_names": [
+   "Red-banded Hairstreak"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "February",
+  "active_end": "November",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/redBandedHairstreak.jpg"
+  ],
+  "butterfly_image_own": [
+   "Greg Lasley"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Lycaenidae",
+  "subfamily": "Hairstreak",
+  "dorsalPattern": [
+   "Iridescent"
+  ],
+  "ventralPattern": [
+   "Striped"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Hairstreak",
+  "tails": "Yes",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "Blue"
+  ],
+  "dorsalSecondaryColor": [
+   "Blue"
+  ],
+  "ventralPrimaryColor": [
+   "Grey",
+   "Brown",
+   "Orange"
+  ],
+  "ventralSecondaryColor": [
+   "Orange"
+  ]
+ },
+ {
+  "id": "f21bb0e8-aab5-4f25-8f0d-a6f8656fdf77",
+  "species": "Glaucopsyche lygdamus",
+  "common_names": [
+   "Silvery Blue"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "February",
+  "active_end": "August",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/silveryBlue.jpg"
+  ],
+  "butterfly_image_own": [
+   "Brad Smith"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Lycaenidae",
+  "subfamily": "Blues",
+  "dorsalPattern": [
+   "Iridescent"
+  ],
+  "ventralPattern": [
+   "Dark Spots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Blue",
+   "Grey"
+  ],
+  "dorsalSecondaryColor": [
+   "Grey"
+  ],
+  "ventralPrimaryColor": [
+   "Grey",
+   "Black"
+  ],
+  "ventralSecondaryColor": [
+   "Black"
+  ]
+ },
+ {
+  "id": "605c58a3-e6d5-4159-8f02-9995112411bf",
+  "species": "Celastrina ladon",
+  "common_names": [
+   "Spring Azure"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "February",
+  "active_end": "June",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/springAzure.jpg"
+  ],
+  "butterfly_image_own": [
+   "Mark Rosenstein"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  ],
+  "family": "Lycaenidae",
+  "subfamily": "Blues",
+  "dorsalPattern": [
+   "Iridescent"
+  ],
+  "ventralPattern": [
+   "Dark Spots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Blue",
+   "Grey"
+  ],
+  "dorsalSecondaryColor": [
+   "Grey"
+  ],
+  "ventralPrimaryColor": [
+   "Blue",
+   "Grey"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "e8613394-50dd-46b0-8792-1fcd2380b50b",
+  "species": "Satyrium liparops",
+  "common_names": [
+   "Striped Hairstreak"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "May",
+  "active_end": "August",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/stripedHairstreak.jpg"
+  ],
+  "butterfly_image_own": [
+   "jdsommer"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Lycaenidae",
+  "subfamily": "Hairstreak",
+  "dorsalPattern": [],
+  "ventralPattern": [
+   "Dark Spots",
+   "Bright Spots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Hairstreak",
+  "tails": "Yes",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown"
+  ],
+  "dorsalSecondaryColor": [],
+  "ventralPrimaryColor": [
+   "Grey",
+   "Brown"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "e1dd9846-25c8-445b-8108-bdbd06c55687",
+  "species": "Celastrina neglecta",
+  "common_names": [
+   "Summer Azure"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "March",
+  "active_end": "October",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/summerAzure.jpg"
+  ],
+  "butterfly_image_own": [
+   "Jason Forbes"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  ],
+  "family": "Lycaenidae",
+  "subfamily": "Blues",
+  "dorsalPattern": [
+   "Iridescent"
+  ],
+  "ventralPattern": [
+   "Dark Spots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Blue",
+   "Grey"
+  ],
+  "dorsalSecondaryColor": [
+   "Grey"
+  ],
+  "ventralPrimaryColor": [
+   "Blue",
+   "Grey"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "046d8a5b-dc35-45ce-8b74-60eab1554d75",
+  "species": "Parrhasius m-album",
+  "common_names": [
+   "White M Hairstreak"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "February",
+  "active_end": "November",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/whiteMHairstreak.jpg"
+  ],
+  "butterfly_image_own": [
+   "Kent McFarland"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Lycaenidae",
+  "subfamily": "Hairstreak",
+  "dorsalPattern": [],
+  "ventralPattern": [
+   "Striped"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Hairstreak",
+  "tails": "Yes",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Blue",
+   "Black"
+  ],
+  "dorsalSecondaryColor": [
+   "Black"
+  ],
+  "ventralPrimaryColor": [
+   "Grey",
+   "Brown"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "419ed03c-3495-425d-965a-4f96ef9e6192",
+  "species": "Vanessa virginiensis",
+  "common_names": [
+   "American Lady"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "January",
+  "active_end": "December",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/americanLady.jpg"
+  ],
+  "butterfly_image_own": [
+   "Paul Sweet"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-sa/4.0/"
+  ],
+  "family": "Nymphalidae",
+  "subfamily": "Nymphalid",
+  "dorsalPattern": [
+   "Dark Spots",
+   "Bright Spots"
+  ],
+  "ventralPattern": [
+   "Eyespots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Orange",
+   "Black"
+  ],
+  "dorsalSecondaryColor": [
+   "Black"
+  ],
+  "ventralPrimaryColor": [
+   "Grey",
+   "Purple"
+  ],
+  "ventralSecondaryColor": [
+   "Purple"
+  ]
+ },
+ {
+  "id": "0818b027-1801-4ad3-853e-36772989867f",
+  "species": "Libytheana carinenta",
+  "common_names": [
+   "American Snout"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "January",
+  "active_end": "December",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/americanSnout.jpg"
+  ],
+  "butterfly_image_own": [
+   "Doris Potter"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Nymphalidae",
+  "subfamily": "Snout, Unique shape",
+  "dorsalPattern": [
+   "Bright Spots"
+  ],
+  "ventralPattern": [
+   "Iridescent"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Unique",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Orange",
+   "Brown"
+  ],
+  "dorsalSecondaryColor": [
+   "Brown"
+  ],
+  "ventralPrimaryColor": [
+   "Grey",
+   "Black",
+   "Purple"
+  ],
+  "ventralSecondaryColor": [
+   "Black",
+   "Purple"
+  ]
+ },
+ {
+  "id": "d9ae15f9-c8c8-424f-bfca-740f7e637b1d",
+  "species": "Speyeria aphrodite",
+  "common_names": [
+   "Aphrodite Fritillary"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "May",
+  "active_end": "September",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/aphroditeFritillary.jpg"
+  ],
+  "butterfly_image_own": [
+   "Mathew L. Brust"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Nymphalidae",
+  "subfamily": "Fritillary",
+  "dorsalPattern": [
+   "Dark Spots"
+  ],
+  "ventralPattern": [
+   "Bright Spots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Orange",
+   "Black"
+  ],
+  "dorsalSecondaryColor": [
+   "Black"
+  ],
+  "ventralPrimaryColor": [
+   "Brown",
+   "Orange"
+  ],
+  "ventralSecondaryColor": [
+   "Orange"
+  ]
+ },
+ {
+  "id": "cd747235-93c7-4c5f-aa7c-be3befae443f",
+  "species": "Lethe appalachia",
+  "common_names": [
+   "Appalachian Brown"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "May",
+  "active_end": "October",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/appalachianBrown.jpeg"
+  ],
+  "butterfly_image_own": [
+   "Matthew Drollinger"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Nymphalidae",
+  "subfamily": "Satyr",
+  "dorsalPattern": [
+   "Dark Spots"
+  ],
+  "ventralPattern": [
+   "Eyespots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown"
+  ],
+  "dorsalSecondaryColor": [],
+  "ventralPrimaryColor": [
+   "Brown"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "9ec46f8b-a1db-462b-9a84-471dc48b745b",
+  "species": "Speyeria atlantis",
+  "common_names": [
+   "Atlantis Fritillary"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "May",
+  "active_end": "September",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/atlantisFritillary.jpg"
+  ],
+  "butterfly_image_own": [
+   "Wayne Fidler"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Nymphalidae",
+  "subfamily": "Fritillary",
+  "dorsalPattern": [
+   "Dark Spots"
+  ],
+  "ventralPattern": [],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Orange",
+   "Black"
+  ],
+  "dorsalSecondaryColor": [
+   "Black"
+  ],
+  "ventralPrimaryColor": [
+   "Brown",
+   "Orange"
+  ],
+  "ventralSecondaryColor": [
+   "Orange"
+  ]
+ },
+ {
+  "id": "2ccf2299-bf12-4eb9-b07a-e04086729d48",
+  "species": "Euphydryas phaeton",
+  "common_names": [
+   "Baltimore Checkerspot"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "April",
+  "active_end": "August",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/baltimoreCheckerspot.jpg"
+  ],
+  "butterfly_image_own": [
+   "Stylurus"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  ],
+  "family": "Nymphalidae",
+  "subfamily": "Checkerspot",
+  "dorsalPattern": [
+   "Bright Spots"
+  ],
+  "ventralPattern": [
+   "Bright Spots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Black",
+   "Orange"
+  ],
+  "dorsalSecondaryColor": [
+   "Orange"
+  ],
+  "ventralPrimaryColor": [
+   "Orange",
+   "Black"
+  ],
+  "ventralSecondaryColor": [
+   "Black"
+  ]
+ },
+ {
+  "id": "81df2817-6096-406d-8b37-260cfd31a7d5",
+  "species": "Junonia coenia",
+  "common_names": [
+   "Common Buckeye"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "January",
+  "active_end": "December",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/commonBuckeye.jpg"
+  ],
+  "butterfly_image_own": [
+   "Aaron Reb"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Nymphalidae",
+  "subfamily": "Nymphalid",
+  "dorsalPattern": [
+   "Eyespots"
+  ],
+  "ventralPattern": [
+   "Dark Spots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "Orange"
+  ],
+  "dorsalSecondaryColor": [
+   "Orange"
+  ],
+  "ventralPrimaryColor": [
+   "Yellow"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "ecfdcd9a-ab67-42ea-9b84-a7307576d1a0",
+  "species": "Coenonympha california",
+  "common_names": [
+   "Common Ringlet"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "March",
+  "active_end": "October",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/commonRinglet.jpg"
+  ],
+  "butterfly_image_own": [
+   "Roy Pilcher"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Nymphalidae",
+  "subfamily": "Satyr",
+  "dorsalPattern": [],
+  "ventralPattern": [
+   "Eyespots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Orange",
+   "Brown"
+  ],
+  "dorsalSecondaryColor": [],
+  "ventralPrimaryColor": [
+   "Grey",
+   "Brown",
+   "Orange"
+  ],
+  "ventralSecondaryColor": [
+   "Orange"
+  ]
+ },
+ {
+  "id": "6b8a2714-9e3d-47e0-a728-395a04d6d26e",
+  "species": "Cercyonis pegala",
+  "common_names": [
+   "Common Wood Nymph"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "May",
+  "active_end": "October",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/commonWoodNymph.jpg"
+  ],
+  "butterfly_image_own": [
+   "David Hofmann"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  ],
+  "family": "Nymphalidae",
+  "subfamily": "Satyr",
+  "dorsalPattern": [
+   "Eyespots"
+  ],
+  "ventralPattern": [
+   "Eyespots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "Yellow"
+  ],
+  "dorsalSecondaryColor": [
+   "Yellow"
+  ],
+  "ventralPrimaryColor": [
+   "Brown"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "6cada50e-d301-4370-b635-daa387aebd51",
+  "species": "Nymphalis l-album",
+  "common_names": [
+   "Compton Tortoiseshell"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "February",
+  "active_end": "November",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/comptonTortoiseshell.jpg"
+  ],
+  "butterfly_image_own": [
+   "D. Gordon E. Robertson"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-sa/4.0/"
+  ],
+  "family": "Nymphalidae",
+  "subfamily": "Nymphalid",
+  "dorsalPattern": [
+   "Dark Spots"
+  ],
+  "ventralPattern": [
+   "Camoflauge"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Unique",
+  "tails": "Yes",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Orange",
+   "Black"
+  ],
+  "dorsalSecondaryColor": [
+   "Black"
+  ],
+  "ventralPrimaryColor": [
+   "Grey",
+   "Brown"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "c594590c-1355-4c36-8f29-a9769b558c6a",
+  "species": "Polygonia comma",
+  "common_names": [
+   "Eastern Comma"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "February",
+  "active_end": "December",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/easternComma.jfif"
+  ],
+  "butterfly_image_own": [
+   "Mike Leveille"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Nymphalidae",
+  "subfamily": "Nymphalid",
+  "dorsalPattern": [
+   "Dark Spots"
+  ],
+  "ventralPattern": [],
+  "antennae": "clubbed",
+  "wing_shape": "Unique",
+  "tails": "Yes",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Orange",
+   "Black"
+  ],
+  "dorsalSecondaryColor": [
+   "Black"
+  ],
+  "ventralPrimaryColor": [
+   "Brown"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "f827a95c-6e1f-4fa4-b49f-f0a3f9989162",
+  "species": "Lethe eurydice",
+  "common_names": [
+   "Eyed Brown"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "May",
+  "active_end": "August",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/eyedBrown.jpg"
+  ],
+  "butterfly_image_own": [
+   "Bill Bouton"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-sa/4.0/"
+  ],
+  "family": "Nymphalidae",
+  "subfamily": "Satyr",
+  "dorsalPattern": [
+   "Dark Spots"
+  ],
+  "ventralPattern": [
+   "Eyespots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown"
+  ],
+  "dorsalSecondaryColor": [],
+  "ventralPrimaryColor": [
+   "Brown"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "9314216a-cc8f-4e1c-9aad-ca238ae5e7e4",
+  "species": "Polygonia progne",
+  "common_names": [
+   "Gray Comma"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "March",
+  "active_end": "October",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/grayComma.jpg"
+  ],
+  "butterfly_image_own": [
+   "Roy Pilcher"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Nymphalidae",
+  "subfamily": "Nymphalid",
+  "dorsalPattern": [
+   "Dark Spots"
+  ],
+  "ventralPattern": [
+   "Camoflauge"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Unique",
+  "tails": "Yes",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Orange",
+   "Black"
+  ],
+  "dorsalSecondaryColor": [
+   "Black"
+  ],
+  "ventralPrimaryColor": [
+   "Grey"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "34d6cbc3-8cf9-4226-af13-1ef47d344256",
+  "species": "Speyeria cybele",
+  "common_names": [
+   "Great Spangled Fritillary"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "May",
+  "active_end": "October",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/greatSpangledFritillary.jfif"
+  ],
+  "butterfly_image_own": [
+   "larryusa"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Nymphalidae",
+  "subfamily": "Fritillary",
+  "dorsalPattern": [
+   "Dark Spots"
+  ],
+  "ventralPattern": [
+   "Bright Spots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Orange",
+   "Black"
+  ],
+  "dorsalSecondaryColor": [
+   "Black"
+  ],
+  "ventralPrimaryColor": [
+   "Brown",
+   "Orange"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "b9cfa6a6-b96a-4493-bc0e-385cef0499d2",
+  "species": "Polygonia faunus",
+  "common_names": [
+   "Green Comma"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "March",
+  "active_end": "October",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/greenComma.jpg"
+  ],
+  "butterfly_image_own": [
+   "carolberney"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Nymphalidae",
+  "subfamily": "Nymphalid",
+  "dorsalPattern": [
+   "Dark Spots"
+  ],
+  "ventralPattern": [
+   "Camoflauge"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Unique",
+  "tails": "Yes",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Orange",
+   "Black"
+  ],
+  "dorsalSecondaryColor": [
+   "Black"
+  ],
+  "ventralPrimaryColor": [
+   "Brown"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "6d706f91-3b44-43d0-a60e-1a2b88b26402",
+  "species": "Dione vanillae",
+  "common_names": [
+   "Gulf Fritillary"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "January",
+  "active_end": "December",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/gulfFritillary.jpg"
+  ],
+  "butterfly_image_own": [
+   "Mary Keim"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  ],
+  "family": "Nymphalidae",
+  "subfamily": "Fritillary",
+  "dorsalPattern": [
+   "Dark Spots"
+  ],
+  "ventralPattern": [
+   "Bright Spots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Orange",
+   "Black"
+  ],
+  "dorsalSecondaryColor": [
+   "Black"
+  ],
+  "ventralPrimaryColor": [
+   "Brown",
+   "Orange"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "c9e74330-1fbd-4988-a7d6-7514f11d4695",
+  "species": "Asterocampa celtis",
+  "common_names": [
+   "Hackberry Emperor"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "March",
+  "active_end": "November",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/hackberryEmperor.jpeg"
+  ],
+  "butterfly_image_own": [
+   "Tommy Farquhar"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Nymphalidae",
+  "subfamily": "Emperor",
+  "dorsalPattern": [
+   "Dark Spots"
+  ],
+  "ventralPattern": [
+   "Eyespots",
+   "Iridescent"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "Orange",
+   "Copper",
+   "Black"
+  ],
+  "dorsalSecondaryColor": [
+   "Black"
+  ],
+  "ventralPrimaryColor": [
+   "Grey"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "c7d19386-951c-4545-bb01-e809b0dc4221",
+  "species": "Chlosyne harrisii",
+  "common_names": [
+   "Harris Checkerspot"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "May",
+  "active_end": "August",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/harrisCheckerspot.jpg"
+  ],
+  "butterfly_image_own": [
+   "Kent McFarland"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Nymphalidae",
+  "subfamily": "Checkerspot",
+  "dorsalPattern": [
+   "Dark Spots"
+  ],
+  "ventralPattern": [
+   "Dark Spots",
+   "Bright Spots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Orange",
+   "Black"
+  ],
+  "dorsalSecondaryColor": [
+   "Black"
+  ],
+  "ventralPrimaryColor": [
+   "Orange"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "c43e4187-4f8f-4889-b9df-02c217d94127",
+  "species": "Megisto cymela",
+  "common_names": [
+   "Little Wood Satyr"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "March",
+  "active_end": "August",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/littleWoodSatyr.jpg"
+  ],
+  "butterfly_image_own": [
+   "smwhite"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Nymphalidae",
+  "subfamily": "Satyr",
+  "dorsalPattern": [
+   "Eyespots"
+  ],
+  "ventralPattern": [
+   "Eyespots",
+   "Striped"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Grey"
+  ],
+  "dorsalSecondaryColor": [],
+  "ventralPrimaryColor": [
+   "Grey"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "6862c760-4ab5-47cb-bbda-24a041f9fa6f",
+  "species": "Boloria bellona",
+  "common_names": [
+   "Meadow Fritillary"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "April",
+  "active_end": "October",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/meadowFritillary.jpg"
+  ],
+  "butterfly_image_own": [
+   "Roy Pilcher"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Nymphalidae",
+  "subfamily": "Fritillary",
+  "dorsalPattern": [
+   "Dark Spots"
+  ],
+  "ventralPattern": [
+   "Iridescent"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Orange",
+   "Black"
+  ],
+  "dorsalSecondaryColor": [
+   "Black"
+  ],
+  "ventralPrimaryColor": [
+   "Brown",
+   "Orange"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "e13f40f2-e7c3-4879-9924-09e70af8b18a",
+  "species": "Aglais milberti",
+  "common_names": [
+   "Milberts Tortoiseshell"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "March",
+  "active_end": "November",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/milbertsTortoiseshell.jpg"
+  ],
+  "butterfly_image_own": [
+   "Zac Cota"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Nymphalidae",
+  "subfamily": "Nymphalid",
+  "dorsalPattern": [
+   "Iridescent",
+   "Bright Spots"
+  ],
+  "ventralPattern": [
+   "Iridescent",
+   "Camoflauge"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Unique",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Black",
+   "Red",
+   "Orange",
+   "Blue",
+   "Purple",
+   "White"
+  ],
+  "dorsalSecondaryColor": [
+   "Red",
+   "Orange",
+   "Blue",
+   "Purple",
+   "White"
+  ],
+  "ventralPrimaryColor": [
+   "Grey",
+   "Blue",
+   "Purple"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "481b232f-a6e8-4bb6-9e76-c4da2a84ceab",
+  "species": "Danaus plexippus",
+  "common_names": [
+   "Monarch"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "January",
+  "active_end": "December",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/monarch.jpg"
+  ],
+  "butterfly_image_own": [
+   "Paul Sweet"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-sa/4.0/"
+  ],
+  "family": "Nymphalidae",
+  "subfamily": "Milkweed",
+  "dorsalPattern": [
+   "Veins"
+  ],
+  "ventralPattern": [
+   "Veins",
+   "Bright Spots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Large",
+  "dorsalPrimaryColor": [
+   "Orange",
+   "Black"
+  ],
+  "dorsalSecondaryColor": [
+   "Black"
+  ],
+  "ventralPrimaryColor": [
+   "Orange",
+   "Black"
+  ],
+  "ventralSecondaryColor": [
+   "Black"
+  ]
+ },
+ {
+  "id": "37631d93-5859-41f3-a1a8-dbb76ce1cdec",
+  "species": "Nymphalis antiopa",
+  "common_names": [
+   "Mourning Cloak"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "January",
+  "active_end": "December",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/mourningCloak.jpg"
+  ],
+  "butterfly_image_own": [
+   "Aleta Rodriguez"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  ],
+  "family": "Nymphalidae",
+  "subfamily": "Nymphalid",
+  "dorsalPattern": [
+   "Striped",
+   "Dark Spots"
+  ],
+  "ventralPattern": [],
+  "antennae": "clubbed",
+  "wing_shape": "Unique",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "Red",
+   "Yellow"
+  ],
+  "dorsalSecondaryColor": [
+   "Yellow"
+  ],
+  "ventralPrimaryColor": [
+   "Black",
+   "Brown"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "67e41c94-7ca1-4662-a5d9-6bd0e2edbf80",
+  "species": "Lethe anthedon",
+  "common_names": [
+   "Northern Pearly Eye"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "May",
+  "active_end": "September",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/northernPearlyEye.jpg"
+  ],
+  "butterfly_image_own": [
+   "Josh Vandermeulen"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  ],
+  "family": "Nymphalidae",
+  "subfamily": "Satyr",
+  "dorsalPattern": [
+   "Dark Spots"
+  ],
+  "ventralPattern": [
+   "Eyespots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown"
+  ],
+  "dorsalSecondaryColor": [],
+  "ventralPrimaryColor": [
+   "Brown"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "c3cf4f3a-db01-4fe7-ba50-f9d8e3b5bd69",
+  "species": "Vanessa cardui",
+  "common_names": [
+   "Painted Lady"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "January",
+  "active_end": "December",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/paintedLady.jpeg"
+  ],
+  "butterfly_image_own": [
+   "Wendy June Norris"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  ],
+  "family": "Nymphalidae",
+  "subfamily": "Nymphalid",
+  "dorsalPattern": [
+   "Bright Spots",
+   "Dark Spots"
+  ],
+  "ventralPattern": [
+   "Eyespots",
+   "Mottled"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Orange",
+   "Black"
+  ],
+  "dorsalSecondaryColor": [
+   "Black"
+  ],
+  "ventralPrimaryColor": [
+   "Grey"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "c65aec8f-88f6-487f-b0be-6a04111c8db3",
+  "species": "Phyciodes tharos",
+  "common_names": [
+   "Pearl Crescent"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "February",
+  "active_end": "November",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/pearlCrescent.jpg"
+  ],
+  "butterfly_image_own": [
+   "Royal Tyler"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  ],
+  "family": "Nymphalidae",
+  "subfamily": "Cresent",
+  "dorsalPattern": [
+   "Dark Spots"
+  ],
+  "ventralPattern": [
+   "Dark Spots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Orange",
+   "Black"
+  ],
+  "dorsalSecondaryColor": [
+   "Black"
+  ],
+  "ventralPrimaryColor": [
+   "Brown"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "d612541d-4c26-4680-bc00-d350fe4d7dd5",
+  "species": "Danaus gilippus",
+  "common_names": [
+   "Queen"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "January",
+  "active_end": "December",
+  "tongue_length": "short",
+  "confused_with": [
+   "None"
+  ],
+  "butterfly_image_src": [
+   "/butterfly_images/queen.jpg"
+  ],
+  "butterfly_image_own": [
+   "TexasEagle"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Nymphalidae",
+  "subfamily": "Milkweed",
+  "dorsalPattern": [
+   "Bright Spots"
+  ],
+  "ventralPattern": [
+   "Veins",
+   "Bright Spots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Large",
+  "dorsalPrimaryColor": [
+   "Orange",
+   "Black"
+  ],
+  "dorsalSecondaryColor": [
+   "Black"
+  ],
+  "ventralPrimaryColor": [
+   "Orange",
+   "Black"
+  ],
+  "ventralSecondaryColor": [
+   "Black"
+  ]
+ },
+ {
+  "id": "2757108d-77d8-40ba-82fd-3879fe0e9faa",
+  "species": "Polygonia interrogationis",
+  "common_names": [
+   "Question Mark"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "January",
+  "active_end": "December",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/questionMark.jpg"
+  ],
+  "butterfly_image_own": [
+   "Kent McFarland"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Nymphalidae",
+  "subfamily": "Nymphalid",
+  "dorsalPattern": [
+   "Dark Spots"
+  ],
+  "ventralPattern": [],
+  "antennae": "clubbed",
+  "wing_shape": "Unique",
+  "tails": "Yes",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Orange",
+   "Black"
+  ],
+  "dorsalSecondaryColor": [
+   "Black"
+  ],
+  "ventralPrimaryColor": [
+   "Grey",
+   "Brown"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "d1044fa9-1dea-4ab7-99af-329919c0fd64",
+  "species": "Vanessa atalanta",
+  "common_names": [
+   "Red Admiral"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "January",
+  "active_end": "December",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/redAdmiral.jpg"
+  ],
+  "butterfly_image_own": [
+   "Gilles San Martin"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-sa/4.0/"
+  ],
+  "family": "Nymphalidae",
+  "subfamily": "Nymphalid",
+  "dorsalPattern": [
+   "Striped"
+  ],
+  "ventralPattern": [
+   "Striped"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Black",
+   "Brown",
+   "Red"
+  ],
+  "dorsalSecondaryColor": [
+   "Red"
+  ],
+  "ventralPrimaryColor": [
+   "Brown",
+   "Red"
+  ],
+  "ventralSecondaryColor": [
+   "Red"
+  ]
+ },
+ {
+  "id": "9a1699bb-f9e6-45a4-b9c7-2046ec1ab0b4",
+  "species": "Limenitis arthemis",
+  "common_names": [
+   "Red-spotted Admiral"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "March",
+  "active_end": "November",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/redSpottedAdmiral.jpg"
+  ],
+  "butterfly_image_own": [
+   "guyincognito"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Nymphalidae",
+  "subfamily": "Admiral",
+  "dorsalPattern": [
+   "Iridescent"
+  ],
+  "ventralPattern": [
+   "Dark Spots",
+   "Bright Spots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Large",
+  "dorsalPrimaryColor": [
+   "Black",
+   "Blue"
+  ],
+  "dorsalSecondaryColor": [
+   "Blue"
+  ],
+  "ventralPrimaryColor": [
+   "Black Red"
+  ],
+  "ventralSecondaryColor": [
+   "Red"
+  ]
+ },
+ {
+  "id": "9c65672f-f489-4685-b0ae-5db85582d59e",
+  "species": "Boloria selene",
+  "common_names": [
+   "Silver-bordered Fritillary"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "May",
+  "active_end": "September",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/silverBorderedFritillary.jfif"
+  ],
+  "butterfly_image_own": [
+   "Roberto Sindaco"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  ],
+  "family": "Nymphalidae",
+  "subfamily": "Fritillary",
+  "dorsalPattern": [
+   "Dark Spots"
+  ],
+  "ventralPattern": [
+   "Bright Spots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Orange",
+   "Black"
+  ],
+  "dorsalSecondaryColor": [
+   "Black"
+  ],
+  "ventralPrimaryColor": [
+   "Orange",
+   "Brown",
+   "White"
+  ],
+  "ventralSecondaryColor": [
+   "White"
+  ]
+ },
+ {
+  "id": "7def93b1-b4e7-4d9e-bcad-a4696353c491",
+  "species": "Chlosyne nycteis",
+  "common_names": [
+   "Silvery Checkerspot"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "March",
+  "active_end": "October",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/silveryCheckerspot.jpg"
+  ],
+  "butterfly_image_own": [
+   "Bill Bouton"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  ],
+  "family": "Nymphalidae",
+  "subfamily": "Checkerspot",
+  "dorsalPattern": [
+   "Dark Spots"
+  ],
+  "ventralPattern": [
+   "Dark Spots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Orange",
+   "Black"
+  ],
+  "dorsalSecondaryColor": [
+   "Black"
+  ],
+  "ventralPrimaryColor": [
+   "White",
+   "Brown",
+   "Black"
+  ],
+  "ventralSecondaryColor": [
+   "Brown",
+   "Black"
+  ]
+ },
+ {
+  "id": "2a2e1ce1-3b6c-439d-91ef-9dc5e7f164ac",
+  "species": "Asterocampa clyton",
+  "common_names": [
+   "Tawny Emperor"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "March",
+  "active_end": "December",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/tawnyEmperor.jpg"
+  ],
+  "butterfly_image_own": [
+   "Sonorabee"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Nymphalidae",
+  "subfamily": "Emperor",
+  "dorsalPattern": [
+   "Dark Spots"
+  ],
+  "ventralPattern": [
+   "Dark Spots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Brown",
+   "Red",
+   "Black"
+  ],
+  "dorsalSecondaryColor": [
+   "Black"
+  ],
+  "ventralPrimaryColor": [
+   "Grey",
+   "Blue"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "af0e1281-7cc3-47bf-9a37-bd9b9265da45",
+  "species": "Euptoieta claudia",
+  "common_names": [
+   "Variegated Fritillary"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "January",
+  "active_end": "December",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/variegatedFritillary.jpg"
+  ],
+  "butterfly_image_own": [
+   "Ken Slade"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Nymphalidae",
+  "subfamily": "Fritillary",
+  "dorsalPattern": [
+   "Veins"
+  ],
+  "ventralPattern": [
+   "Mottled"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Orange"
+  ],
+  "dorsalSecondaryColor": [],
+  "ventralPrimaryColor": [
+   "Orange",
+   "Brown"
+  ],
+  "ventralSecondaryColor": [
+   "Brown"
+  ]
+ },
+ {
+  "id": "c9876f19-18b1-4a83-9597-a3052478a78d",
+  "species": "Limenitis archippus",
+  "common_names": [
+   "Viceroy"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "March",
+  "active_end": "November",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/viceroy.jpg"
+  ],
+  "butterfly_image_own": [
+   "jhalo88"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Nymphalidae",
+  "subfamily": "Admiral",
+  "dorsalPattern": [
+   "Veins"
+  ],
+  "ventralPattern": [
+   "Veins"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Large",
+  "dorsalPrimaryColor": [
+   "Orange",
+   "Black"
+  ],
+  "dorsalSecondaryColor": [
+   "Black"
+  ],
+  "ventralPrimaryColor": [
+   "Orange",
+   "Black"
+  ],
+  "ventralSecondaryColor": [
+   "Black"
+  ]
+ },
+ {
+  "id": "f91d328b-b123-4d27-9442-0ec79810a1a5",
+  "species": "Papilio polyxenes",
+  "common_names": [
+   "Black Swallowtail"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "February",
+  "active_end": "November",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/blackSwallowtail.jpeg"
+  ],
+  "butterfly_image_own": [
+   "Heather Pickard"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Papilionidae",
+  "subfamily": "Swallowtail",
+  "dorsalPattern": [
+   "Bright Spots"
+  ],
+  "ventralPattern": [
+   "Bright Spots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Longtail",
+  "tails": "Yes",
+  "wing_size": "Large",
+  "dorsalPrimaryColor": [
+   "Black",
+   "Yellow",
+   "Blue"
+  ],
+  "dorsalSecondaryColor": [
+   "Blue"
+  ],
+  "ventralPrimaryColor": [
+   "Blue",
+   "Black",
+   "Orange",
+   "White"
+  ],
+  "ventralSecondaryColor": [
+   "Orange",
+   "White"
+  ]
+ },
+ {
+  "id": "0208d51a-a33f-44c7-ab68-aa2cb7381ed7",
+  "species": "Papilio canadensis",
+  "common_names": [
+   "Canadian Tiger Swallowtail"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "May",
+  "active_end": "August",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/canadianTigerSwallowtail.jpg"
+  ],
+  "butterfly_image_own": [
+   "Susan Elliott"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Papilionidae",
+  "subfamily": "Swallowtail",
+  "dorsalPattern": [],
+  "ventralPattern": [],
+  "antennae": "clubbed",
+  "wing_shape": "Longtail",
+  "tails": "Yes",
+  "wing_size": "Large",
+  "dorsalPrimaryColor": [
+   "Yellow",
+   "Black",
+   "Blue"
+  ],
+  "dorsalSecondaryColor": [],
+  "ventralPrimaryColor": [
+   "Yellow",
+   "Grey"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "dc8e69e3-9a67-4bfa-bfab-cbe855e3061e",
+  "species": "Papilio cresphontes",
+  "common_names": [
+   "Eastern Giant Swallowtail"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "February",
+  "active_end": "November",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/easternGiantSwallowtail.jpg"
+  ],
+  "butterfly_image_own": [
+   "Brian Peterson"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+  ],
+  "family": "Papilionidae",
+  "subfamily": "Swallowtail",
+  "dorsalPattern": [
+   "Bright Spots"
+  ],
+  "ventralPattern": [],
+  "antennae": "clubbed",
+  "wing_shape": "Longtail",
+  "tails": "Yes",
+  "wing_size": "Large",
+  "dorsalPrimaryColor": [
+   "Black",
+   "Brown",
+   "Yellow"
+  ],
+  "dorsalSecondaryColor": [],
+  "ventralPrimaryColor": [
+   "Yellow",
+   "Blue",
+   "Orange"
+  ],
+  "ventralSecondaryColor": [
+   "Blue",
+   "Orange"
+  ]
+ },
+ {
+  "id": "ce1e88e6-f9d9-4aff-9066-d96e40521589",
+  "species": "Papilio glaucus",
+  "common_names": [
+   "Eastern Tiger Swallowtail"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "March",
+  "active_end": "October",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/easternTigerSwallowtail.jpg"
+  ],
+  "butterfly_image_own": [
+   "Don Sniegowski"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  ],
+  "family": "Papilionidae",
+  "subfamily": "Swallowtail",
+  "dorsalPattern": [
+   "Striped"
+  ],
+  "ventralPattern": [],
+  "antennae": "clubbed",
+  "wing_shape": "Longtail",
+  "tails": "Yes",
+  "wing_size": "Large",
+  "dorsalPrimaryColor": [
+   "Yellow",
+   "Black",
+   "Blue"
+  ],
+  "dorsalSecondaryColor": [],
+  "ventralPrimaryColor": [
+   "Yellow",
+   "Blue",
+   "Black"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "993e4969-52ef-459d-ab54-d173f058c360",
+  "species": "Battus philenor",
+  "common_names": [
+   "Pipevine Swallowtail"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "January",
+  "active_end": "December",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/pipevineSwallowtail.jpg"
+  ],
+  "butterfly_image_own": [
+   "Edward Perry IV"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Papilionidae",
+  "subfamily": "Swallowtail",
+  "dorsalPattern": [
+   "Bright Spots"
+  ],
+  "ventralPattern": [
+   "Bright Spots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Longtail",
+  "tails": "Yes",
+  "wing_size": "Large",
+  "dorsalPrimaryColor": [
+   "Blue",
+   "Black"
+  ],
+  "dorsalSecondaryColor": [],
+  "ventralPrimaryColor": [
+   "Blue",
+   "Black",
+   "Orange"
+  ],
+  "ventralSecondaryColor": [
+   "Orange"
+  ]
+ },
+ {
+  "id": "4f6636e0-cc71-4bdf-a1a6-372e7e7dd536",
+  "species": "Papilio troilus",
+  "common_names": [
+   "Spicebush Swallowtail"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "March",
+  "active_end": "October",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/spicebushSwallowtail.jfif"
+  ],
+  "butterfly_image_own": [
+   "116916927065934112165"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-sa/4.0/"
+  ],
+  "family": "Papilionidae",
+  "subfamily": "Swallowtail",
+  "dorsalPattern": [
+   "Bright Spots"
+  ],
+  "ventralPattern": [
+   "Bright Spots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Longtail",
+  "tails": "Yes",
+  "wing_size": "Large",
+  "dorsalPrimaryColor": [
+   "Black",
+   "Blue"
+  ],
+  "dorsalSecondaryColor": [],
+  "ventralPrimaryColor": [
+   "Black",
+   "Blue",
+   "Orange"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "980cfedb-2649-474a-9efd-6988dc537811",
+  "species": "Eurytides marcellus",
+  "common_names": [
+   "Zebra Swallowtail"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "February",
+  "active_end": "October",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/zebraSwallowtail.jpg"
+  ],
+  "butterfly_image_own": [
+   "Paul Sweet"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-sa/4.0/"
+  ],
+  "family": "Papilionidae",
+  "subfamily": "Swallowtail",
+  "dorsalPattern": [
+   "Striped"
+  ],
+  "ventralPattern": [
+   "Striped",
+   "Bright Spots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Longtail",
+  "tails": "Yes",
+  "wing_size": "Large",
+  "dorsalPrimaryColor": [
+   "Black",
+   "White"
+  ],
+  "dorsalSecondaryColor": [],
+  "ventralPrimaryColor": [
+   "Black",
+   "White",
+   "Red"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "ec6cf0cc-9e88-407b-92c1-4f8d4c4a4da3",
+  "species": "Pieris rapae",
+  "common_names": [
+   "Cabbage White"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "January",
+  "active_end": "December",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/cabbageWhite.jpeg"
+  ],
+  "butterfly_image_own": [
+   "Paul Sweet"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-sa/4.0/"
+  ],
+  "family": "Pieridae",
+  "subfamily": "Whites",
+  "dorsalPattern": [
+   "Dark Spots"
+  ],
+  "ventralPattern": [
+   "Dark Spots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "White"
+  ],
+  "dorsalSecondaryColor": [],
+  "ventralPrimaryColor": [
+   "White"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "e9efe9c4-523e-4d67-8323-7b9501c70bb2",
+  "species": "Pontia protodice",
+  "common_names": [
+   "Checkered White"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "January",
+  "active_end": "December",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/checkeredWhite.jpg"
+  ],
+  "butterfly_image_own": [
+   "Ethan"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Pieridae",
+  "subfamily": "Whites",
+  "dorsalPattern": [
+   "Dark Spots"
+  ],
+  "ventralPattern": [
+   "Checkered"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "White"
+  ],
+  "dorsalSecondaryColor": [],
+  "ventralPrimaryColor": [
+   "White",
+   "Green"
+  ],
+  "ventralSecondaryColor": [
+   "Green"
+  ]
+ },
+ {
+  "id": "2b20c2fa-7090-4943-bcbb-c29c6ca0f6d5",
+  "species": "Colias philodice",
+  "common_names": [
+   "Clouded Sulphur"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "March",
+  "active_end": "November",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/cloudedSulphur.jpg"
+  ],
+  "butterfly_image_own": [
+   "Claire ONeill"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Pieridae",
+  "subfamily": "Suphers",
+  "dorsalPattern": [],
+  "ventralPattern": [
+   "Dark Spots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Yellow",
+   "Black"
+  ],
+  "dorsalSecondaryColor": [
+   "Black"
+  ],
+  "ventralPrimaryColor": [
+   "Yellow"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "8d9052ab-8f83-4064-bde8-158d95dc9b0c",
+  "species": "Phoebis sennae",
+  "common_names": [
+   "Cloudless Sulphur"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "January",
+  "active_end": "December",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/cloudlessSulphur.jpg"
+  ],
+  "butterfly_image_own": [
+   "Teresa Murr"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Pieridae",
+  "subfamily": "Suphers",
+  "dorsalPattern": [],
+  "ventralPattern": [
+   "Dark Spots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Yellow"
+  ],
+  "dorsalSecondaryColor": [],
+  "ventralPrimaryColor": [
+   "Yellow",
+   "Green"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "116617aa-0cba-49cb-a91b-099d563e7dd8",
+  "species": "Pyrisitia lisa",
+  "common_names": [
+   "Little Yellow"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "January",
+  "active_end": "December",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/littleYellow.jpg"
+  ],
+  "butterfly_image_own": [
+   "Mary Keim"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  ],
+  "family": "Pieridae",
+  "subfamily": "Suphers",
+  "dorsalPattern": [],
+  "ventralPattern": [
+   "Dark Spots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Yellow",
+   "Black"
+  ],
+  "dorsalSecondaryColor": [
+   "Black"
+  ],
+  "ventralPrimaryColor": [
+   "Yellow",
+   "Green"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "4af23d7d-3796-4ecb-9a5d-b4d3ebdac1c5",
+  "species": "Pieris oleracea",
+  "common_names": [
+   "Mustard White"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "April",
+  "active_end": "September",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/mustardWhite.jpeg"
+  ],
+  "butterfly_image_own": [
+   "Joseph Kurtz"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Pieridae",
+  "subfamily": "Whites",
+  "dorsalPattern": [],
+  "ventralPattern": [
+   "Veins"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Yellow"
+  ],
+  "dorsalSecondaryColor": [],
+  "ventralPrimaryColor": [
+   "White"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "11fc5152-63f8-4392-a421-ccf9955bdc1a",
+  "species": "Colias eurytheme",
+  "common_names": [
+   "Orange Sulphur"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "January",
+  "active_end": "December",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/orangeSulphur.jpg"
+  ],
+  "butterfly_image_own": [
+   "Roger Rittmaster"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Pieridae",
+  "subfamily": "Sulphers",
+  "dorsalPattern": [],
+  "ventralPattern": [
+   "Dark Spots"
+  ],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "Orange",
+   "Black"
+  ],
+  "dorsalSecondaryColor": [
+   "Black"
+  ],
+  "ventralPrimaryColor": [
+   "Yellow"
+  ],
+  "ventralSecondaryColor": []
+ },
+ {
+  "id": "57afccae-5ecf-4bfa-8ca6-302d86576922",
+  "species": "Pieris virginiensis",
+  "common_names": [
+   "West Virginia White"
+  ],
+  "description": "There is no description for this species at this time.",
+  "active_start": "March",
+  "active_end": "June",
+  "tongue_length": "short",
+  "confused_with": [],
+  "butterfly_image_src": [
+   "/butterfly_images/westVirginiaWhite.jfif"
+  ],
+  "butterfly_image_own": [
+   "David Yeany"
+  ],
+  "butterfly_image_url": [
+   "https://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "family": "Pieridae",
+  "subfamily": "Whites",
+  "dorsalPattern": [],
+  "ventralPattern": [],
+  "antennae": "clubbed",
+  "wing_shape": "Common",
+  "tails": "No",
+  "wing_size": "Small",
+  "dorsalPrimaryColor": [
+   "White",
+   "Grey"
+  ],
+  "dorsalSecondaryColor": [
+   "Grey"
+  ],
+  "ventralPrimaryColor": [
+   "White"
+  ],
+  "ventralSecondaryColor": []
+ }
+]
